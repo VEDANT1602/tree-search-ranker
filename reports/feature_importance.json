@@ -1,0 +1,19 @@
+{
+  "bm25": 0.39799708127975464,
+  "tfidf_cosine": 0.03957675024867058,
+  "svd_cosine": 0.22004581987857819,
+  "title_overlap": 0.028101785108447075,
+  "body_coverage": 0.0646844208240509,
+  "title_phrase": 0.0,
+  "authority": 0.02547549270093441,
+  "log_age": 0.04379124194383621,
+  "is_current": 0.008313112892210484,
+  "is_archived": 0.0,
+  "is_draft": 0.0,
+  "is_chat": 0.016242943704128265,
+  "query_historical": 0.08892986178398132,
+  "query_manager": 0.0007315627881325781,
+  "document_manager": 0.0,
+  "log_document_length": 0.0453542098402977,
+  "query_length": 0.020755620673298836
+}

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="420" viewBox="0 0 860 420" role="img" aria-labelledby="title desc">
+<title id="title">Held-out query-family ranking comparison</title>
+<desc id="desc">Zero-baseline NDCG at five for four methods on the same fictional test queries. This is not a customer performance benchmark.</desc>
+<rect width="860" height="420" fill="#f6f8fc"/>
+<text x="30" y="34" font-family="sans-serif" font-size="23" fill="#17334a">Similarity and document context need separate checks</text>
+<text x="30" y="64" font-family="sans-serif" font-size="15" fill="#496477">NDCG@5 on held-out fictional query families; same permitted candidates</text>
+<text x="30" y="123" font-family="sans-serif" font-size="16">BM25</text>
+<rect x="255" y="100" width="373.05" height="34" rx="4" fill="#6a8095"/>
+<text x="638.05" y="123" font-family="sans-serif" font-size="17">0.8110</text>
+<text x="30" y="188" font-family="sans-serif" font-size="16">BM25 + SVD fusion</text>
+<rect x="255" y="165" width="354.48" height="34" rx="4" fill="#6a8095"/>
+<text x="619.48" y="188" font-family="sans-serif" font-size="17">0.7706</text>
+<text x="30" y="253" font-family="sans-serif" font-size="16">Metadata heuristic</text>
+<rect x="255" y="230" width="370.16" height="34" rx="4" fill="#6a8095"/>
+<text x="635.16" y="253" font-family="sans-serif" font-size="17">0.8047</text>
+<text x="30" y="318" font-family="sans-serif" font-size="16">XGBRanker</text>
+<rect x="255" y="295" width="446.16" height="34" rx="4" fill="#157e7a"/>
+<text x="711.16" y="318" font-family="sans-serif" font-size="17">0.9699</text>
+<text x="30" y="391" font-family="sans-serif" font-size="14" fill="#496477">Source: metrics.json. Judgments are original fixture rules, not independent relevance labels.</text>
+</svg>

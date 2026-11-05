@@ -1,0 +1,4202 @@
+[
+  {
+    "query_id": "aster-deploy-employee-current-0",
+    "family": "deploy",
+    "split": "train",
+    "tenant": "aster",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "deployment rollback staff current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-deploy-employee-current-1",
+    "family": "deploy",
+    "split": "train",
+    "tenant": "aster",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "where is the active release recovery guidance for staff today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-deploy-employee-historical-0",
+    "family": "deploy",
+    "split": "train",
+    "tenant": "aster",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "deployment rollback staff prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-deploy-employee-historical-1",
+    "family": "deploy",
+    "split": "train",
+    "tenant": "aster",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "what did the previous release recovery guidance say in 2024 for staff",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-deploy-manager-current-0",
+    "family": "deploy",
+    "split": "train",
+    "tenant": "aster",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "deployment rollback manager exception current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-deploy-manager-current-1",
+    "family": "deploy",
+    "split": "train",
+    "tenant": "aster",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "where is the active release recovery guidance for manager exception today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-deploy-manager-historical-0",
+    "family": "deploy",
+    "split": "train",
+    "tenant": "aster",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "deployment rollback manager exception prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-deploy-manager-historical-1",
+    "family": "deploy",
+    "split": "train",
+    "tenant": "aster",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "what did the previous release recovery guidance say in 2024 for manager exception",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-expenses-employee-current-0",
+    "family": "expenses",
+    "split": "train",
+    "tenant": "aster",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "expense reimbursement staff current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-expenses-employee-current-1",
+    "family": "expenses",
+    "split": "train",
+    "tenant": "aster",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "where is the active spending claims guidance for staff today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-expenses-employee-historical-0",
+    "family": "expenses",
+    "split": "train",
+    "tenant": "aster",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "expense reimbursement staff prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-expenses-employee-historical-1",
+    "family": "expenses",
+    "split": "train",
+    "tenant": "aster",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "what did the previous spending claims guidance say in 2024 for staff",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-expenses-manager-current-0",
+    "family": "expenses",
+    "split": "train",
+    "tenant": "aster",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "expense reimbursement manager exception current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-expenses-manager-current-1",
+    "family": "expenses",
+    "split": "train",
+    "tenant": "aster",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "where is the active spending claims guidance for manager exception today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-expenses-manager-historical-0",
+    "family": "expenses",
+    "split": "train",
+    "tenant": "aster",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "expense reimbursement manager exception prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-expenses-manager-historical-1",
+    "family": "expenses",
+    "split": "train",
+    "tenant": "aster",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "what did the previous spending claims guidance say in 2024 for manager exception",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-incident-employee-current-0",
+    "family": "incident",
+    "split": "train",
+    "tenant": "aster",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "incident escalation staff current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-incident-employee-current-1",
+    "family": "incident",
+    "split": "train",
+    "tenant": "aster",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "where is the active outage response guidance for staff today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-incident-employee-historical-0",
+    "family": "incident",
+    "split": "train",
+    "tenant": "aster",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "incident escalation staff prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-incident-employee-historical-1",
+    "family": "incident",
+    "split": "train",
+    "tenant": "aster",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "what did the previous outage response guidance say in 2024 for staff",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-incident-manager-current-0",
+    "family": "incident",
+    "split": "train",
+    "tenant": "aster",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "incident escalation manager exception current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-incident-manager-current-1",
+    "family": "incident",
+    "split": "train",
+    "tenant": "aster",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "where is the active outage response guidance for manager exception today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-incident-manager-historical-0",
+    "family": "incident",
+    "split": "train",
+    "tenant": "aster",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "incident escalation manager exception prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-incident-manager-historical-1",
+    "family": "incident",
+    "split": "train",
+    "tenant": "aster",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "what did the previous outage response guidance say in 2024 for manager exception",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-access-employee-current-0",
+    "family": "access",
+    "split": "train",
+    "tenant": "aster",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "access request staff current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-access-employee-current-1",
+    "family": "access",
+    "split": "train",
+    "tenant": "aster",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "where is the active account permission guidance for staff today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-access-employee-historical-0",
+    "family": "access",
+    "split": "train",
+    "tenant": "aster",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "access request staff prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-access-employee-historical-1",
+    "family": "access",
+    "split": "train",
+    "tenant": "aster",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "what did the previous account permission guidance say in 2024 for staff",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-access-manager-current-0",
+    "family": "access",
+    "split": "train",
+    "tenant": "aster",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "access request manager exception current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-access-manager-current-1",
+    "family": "access",
+    "split": "train",
+    "tenant": "aster",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "where is the active account permission guidance for manager exception today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-access-manager-historical-0",
+    "family": "access",
+    "split": "train",
+    "tenant": "aster",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "access request manager exception prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-access-manager-historical-1",
+    "family": "access",
+    "split": "train",
+    "tenant": "aster",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "what did the previous account permission guidance say in 2024 for manager exception",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-leave-employee-current-0",
+    "family": "leave",
+    "split": "train",
+    "tenant": "aster",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "leave approval staff current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-leave-employee-current-1",
+    "family": "leave",
+    "split": "train",
+    "tenant": "aster",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "where is the active time off guidance for staff today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-leave-employee-historical-0",
+    "family": "leave",
+    "split": "train",
+    "tenant": "aster",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "leave approval staff prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-leave-employee-historical-1",
+    "family": "leave",
+    "split": "train",
+    "tenant": "aster",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "what did the previous time off guidance say in 2024 for staff",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-leave-manager-current-0",
+    "family": "leave",
+    "split": "train",
+    "tenant": "aster",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "leave approval manager exception current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-leave-manager-current-1",
+    "family": "leave",
+    "split": "train",
+    "tenant": "aster",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "where is the active time off guidance for manager exception today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-leave-manager-historical-0",
+    "family": "leave",
+    "split": "train",
+    "tenant": "aster",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "leave approval manager exception prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-leave-manager-historical-1",
+    "family": "leave",
+    "split": "train",
+    "tenant": "aster",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "what did the previous time off guidance say in 2024 for manager exception",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-procurement-employee-current-0",
+    "family": "procurement",
+    "split": "train",
+    "tenant": "aster",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "purchase approval staff current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-procurement-employee-current-1",
+    "family": "procurement",
+    "split": "train",
+    "tenant": "aster",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "where is the active supplier purchase guidance for staff today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-procurement-employee-historical-0",
+    "family": "procurement",
+    "split": "train",
+    "tenant": "aster",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "purchase approval staff prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-procurement-employee-historical-1",
+    "family": "procurement",
+    "split": "train",
+    "tenant": "aster",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "what did the previous supplier purchase guidance say in 2024 for staff",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-procurement-manager-current-0",
+    "family": "procurement",
+    "split": "train",
+    "tenant": "aster",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "purchase approval manager exception current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-procurement-manager-current-1",
+    "family": "procurement",
+    "split": "train",
+    "tenant": "aster",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "where is the active supplier purchase guidance for manager exception today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-procurement-manager-historical-0",
+    "family": "procurement",
+    "split": "train",
+    "tenant": "aster",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "purchase approval manager exception prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-procurement-manager-historical-1",
+    "family": "procurement",
+    "split": "train",
+    "tenant": "aster",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "what did the previous supplier purchase guidance say in 2024 for manager exception",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-handoff-employee-current-0",
+    "family": "handoff",
+    "split": "train",
+    "tenant": "aster",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "customer handoff staff current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-handoff-employee-current-1",
+    "family": "handoff",
+    "split": "train",
+    "tenant": "aster",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "where is the active account transition guidance for staff today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-handoff-employee-historical-0",
+    "family": "handoff",
+    "split": "train",
+    "tenant": "aster",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "customer handoff staff prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-handoff-employee-historical-1",
+    "family": "handoff",
+    "split": "train",
+    "tenant": "aster",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "what did the previous account transition guidance say in 2024 for staff",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-handoff-manager-current-0",
+    "family": "handoff",
+    "split": "train",
+    "tenant": "aster",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "customer handoff manager exception current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-handoff-manager-current-1",
+    "family": "handoff",
+    "split": "train",
+    "tenant": "aster",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "where is the active account transition guidance for manager exception today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-handoff-manager-historical-0",
+    "family": "handoff",
+    "split": "train",
+    "tenant": "aster",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "customer handoff manager exception prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-handoff-manager-historical-1",
+    "family": "handoff",
+    "split": "train",
+    "tenant": "aster",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "what did the previous account transition guidance say in 2024 for manager exception",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-backups-employee-current-0",
+    "family": "backups",
+    "split": "train",
+    "tenant": "aster",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "backup restoration staff current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-backups-employee-current-1",
+    "family": "backups",
+    "split": "train",
+    "tenant": "aster",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "where is the active data recovery guidance for staff today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-backups-employee-historical-0",
+    "family": "backups",
+    "split": "train",
+    "tenant": "aster",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "backup restoration staff prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-backups-employee-historical-1",
+    "family": "backups",
+    "split": "train",
+    "tenant": "aster",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "what did the previous data recovery guidance say in 2024 for staff",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-backups-manager-current-0",
+    "family": "backups",
+    "split": "train",
+    "tenant": "aster",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "backup restoration manager exception current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-backups-manager-current-1",
+    "family": "backups",
+    "split": "train",
+    "tenant": "aster",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "where is the active data recovery guidance for manager exception today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-backups-manager-historical-0",
+    "family": "backups",
+    "split": "train",
+    "tenant": "aster",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "backup restoration manager exception prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-backups-manager-historical-1",
+    "family": "backups",
+    "split": "train",
+    "tenant": "aster",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "what did the previous data recovery guidance say in 2024 for manager exception",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-vendor-employee-current-0",
+    "family": "vendor",
+    "split": "validation",
+    "tenant": "aster",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "vendor security staff current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-vendor-employee-current-1",
+    "family": "vendor",
+    "split": "validation",
+    "tenant": "aster",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "where is the active supplier assurance guidance for staff today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-vendor-employee-historical-0",
+    "family": "vendor",
+    "split": "validation",
+    "tenant": "aster",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "vendor security staff prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-vendor-employee-historical-1",
+    "family": "vendor",
+    "split": "validation",
+    "tenant": "aster",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "what did the previous supplier assurance guidance say in 2024 for staff",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-vendor-manager-current-0",
+    "family": "vendor",
+    "split": "validation",
+    "tenant": "aster",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "vendor security manager exception current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-vendor-manager-current-1",
+    "family": "vendor",
+    "split": "validation",
+    "tenant": "aster",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "where is the active supplier assurance guidance for manager exception today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-vendor-manager-historical-0",
+    "family": "vendor",
+    "split": "validation",
+    "tenant": "aster",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "vendor security manager exception prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-vendor-manager-historical-1",
+    "family": "vendor",
+    "split": "validation",
+    "tenant": "aster",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "what did the previous supplier assurance guidance say in 2024 for manager exception",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-onboarding-employee-current-0",
+    "family": "onboarding",
+    "split": "validation",
+    "tenant": "aster",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "employee onboarding staff current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-onboarding-employee-current-1",
+    "family": "onboarding",
+    "split": "validation",
+    "tenant": "aster",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "where is the active new starter guidance for staff today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-onboarding-employee-historical-0",
+    "family": "onboarding",
+    "split": "validation",
+    "tenant": "aster",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "employee onboarding staff prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-onboarding-employee-historical-1",
+    "family": "onboarding",
+    "split": "validation",
+    "tenant": "aster",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "what did the previous new starter guidance say in 2024 for staff",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-onboarding-manager-current-0",
+    "family": "onboarding",
+    "split": "validation",
+    "tenant": "aster",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "employee onboarding manager exception current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-onboarding-manager-current-1",
+    "family": "onboarding",
+    "split": "validation",
+    "tenant": "aster",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "where is the active new starter guidance for manager exception today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-onboarding-manager-historical-0",
+    "family": "onboarding",
+    "split": "validation",
+    "tenant": "aster",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "employee onboarding manager exception prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-onboarding-manager-historical-1",
+    "family": "onboarding",
+    "split": "validation",
+    "tenant": "aster",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "what did the previous new starter guidance say in 2024 for manager exception",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-dataroom-employee-current-0",
+    "family": "dataroom",
+    "split": "validation",
+    "tenant": "aster",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "data room access staff current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-dataroom-employee-current-1",
+    "family": "dataroom",
+    "split": "validation",
+    "tenant": "aster",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "where is the active deal documents guidance for staff today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-dataroom-employee-historical-0",
+    "family": "dataroom",
+    "split": "validation",
+    "tenant": "aster",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "data room access staff prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-dataroom-employee-historical-1",
+    "family": "dataroom",
+    "split": "validation",
+    "tenant": "aster",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "what did the previous deal documents guidance say in 2024 for staff",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-dataroom-manager-current-0",
+    "family": "dataroom",
+    "split": "validation",
+    "tenant": "aster",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "data room access manager exception current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-dataroom-manager-current-1",
+    "family": "dataroom",
+    "split": "validation",
+    "tenant": "aster",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "where is the active deal documents guidance for manager exception today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-dataroom-manager-historical-0",
+    "family": "dataroom",
+    "split": "validation",
+    "tenant": "aster",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "data room access manager exception prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-dataroom-manager-historical-1",
+    "family": "dataroom",
+    "split": "validation",
+    "tenant": "aster",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "what did the previous deal documents guidance say in 2024 for manager exception",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-retention-employee-current-0",
+    "family": "retention",
+    "split": "test",
+    "tenant": "aster",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "record retention staff current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-retention-employee-current-1",
+    "family": "retention",
+    "split": "test",
+    "tenant": "aster",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "where is the active document lifecycle guidance for staff today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-retention-employee-historical-0",
+    "family": "retention",
+    "split": "test",
+    "tenant": "aster",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "record retention staff prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-retention-employee-historical-1",
+    "family": "retention",
+    "split": "test",
+    "tenant": "aster",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "what did the previous document lifecycle guidance say in 2024 for staff",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-retention-manager-current-0",
+    "family": "retention",
+    "split": "test",
+    "tenant": "aster",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "record retention manager exception current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-retention-manager-current-1",
+    "family": "retention",
+    "split": "test",
+    "tenant": "aster",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "where is the active document lifecycle guidance for manager exception today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-retention-manager-historical-0",
+    "family": "retention",
+    "split": "test",
+    "tenant": "aster",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "record retention manager exception prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-retention-manager-historical-1",
+    "family": "retention",
+    "split": "test",
+    "tenant": "aster",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "what did the previous document lifecycle guidance say in 2024 for manager exception",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-travel-employee-current-0",
+    "family": "travel",
+    "split": "test",
+    "tenant": "aster",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "travel approval staff current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-travel-employee-current-1",
+    "family": "travel",
+    "split": "test",
+    "tenant": "aster",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "where is the active business trip guidance for staff today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-travel-employee-historical-0",
+    "family": "travel",
+    "split": "test",
+    "tenant": "aster",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "travel approval staff prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-travel-employee-historical-1",
+    "family": "travel",
+    "split": "test",
+    "tenant": "aster",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "what did the previous business trip guidance say in 2024 for staff",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-travel-manager-current-0",
+    "family": "travel",
+    "split": "test",
+    "tenant": "aster",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "travel approval manager exception current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-travel-manager-current-1",
+    "family": "travel",
+    "split": "test",
+    "tenant": "aster",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "where is the active business trip guidance for manager exception today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-travel-manager-historical-0",
+    "family": "travel",
+    "split": "test",
+    "tenant": "aster",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "travel approval manager exception prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-travel-manager-historical-1",
+    "family": "travel",
+    "split": "test",
+    "tenant": "aster",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "what did the previous business trip guidance say in 2024 for manager exception",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-release-employee-current-0",
+    "family": "release",
+    "split": "test",
+    "tenant": "aster",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "release handoff staff current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-release-employee-current-1",
+    "family": "release",
+    "split": "test",
+    "tenant": "aster",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "where is the active launch transition guidance for staff today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-release-employee-historical-0",
+    "family": "release",
+    "split": "test",
+    "tenant": "aster",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "release handoff staff prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-release-employee-historical-1",
+    "family": "release",
+    "split": "test",
+    "tenant": "aster",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "what did the previous launch transition guidance say in 2024 for staff",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-release-manager-current-0",
+    "family": "release",
+    "split": "test",
+    "tenant": "aster",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "release handoff manager exception current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-release-manager-current-1",
+    "family": "release",
+    "split": "test",
+    "tenant": "aster",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "where is the active launch transition guidance for manager exception today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-release-manager-historical-0",
+    "family": "release",
+    "split": "test",
+    "tenant": "aster",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "release handoff manager exception prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "aster-release-manager-historical-1",
+    "family": "release",
+    "split": "test",
+    "tenant": "aster",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "what did the previous launch transition guidance say in 2024 for manager exception",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-deploy-employee-current-0",
+    "family": "deploy",
+    "split": "train",
+    "tenant": "birch",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "deployment rollback staff current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-deploy-employee-current-1",
+    "family": "deploy",
+    "split": "train",
+    "tenant": "birch",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "where is the active release recovery guidance for staff today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-deploy-employee-historical-0",
+    "family": "deploy",
+    "split": "train",
+    "tenant": "birch",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "deployment rollback staff prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-deploy-employee-historical-1",
+    "family": "deploy",
+    "split": "train",
+    "tenant": "birch",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "what did the previous release recovery guidance say in 2024 for staff",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-deploy-manager-current-0",
+    "family": "deploy",
+    "split": "train",
+    "tenant": "birch",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "deployment rollback manager exception current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-deploy-manager-current-1",
+    "family": "deploy",
+    "split": "train",
+    "tenant": "birch",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "where is the active release recovery guidance for manager exception today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-deploy-manager-historical-0",
+    "family": "deploy",
+    "split": "train",
+    "tenant": "birch",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "deployment rollback manager exception prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-deploy-manager-historical-1",
+    "family": "deploy",
+    "split": "train",
+    "tenant": "birch",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "what did the previous release recovery guidance say in 2024 for manager exception",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-expenses-employee-current-0",
+    "family": "expenses",
+    "split": "train",
+    "tenant": "birch",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "expense reimbursement staff current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-expenses-employee-current-1",
+    "family": "expenses",
+    "split": "train",
+    "tenant": "birch",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "where is the active spending claims guidance for staff today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-expenses-employee-historical-0",
+    "family": "expenses",
+    "split": "train",
+    "tenant": "birch",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "expense reimbursement staff prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-expenses-employee-historical-1",
+    "family": "expenses",
+    "split": "train",
+    "tenant": "birch",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "what did the previous spending claims guidance say in 2024 for staff",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-expenses-manager-current-0",
+    "family": "expenses",
+    "split": "train",
+    "tenant": "birch",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "expense reimbursement manager exception current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-expenses-manager-current-1",
+    "family": "expenses",
+    "split": "train",
+    "tenant": "birch",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "where is the active spending claims guidance for manager exception today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-expenses-manager-historical-0",
+    "family": "expenses",
+    "split": "train",
+    "tenant": "birch",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "expense reimbursement manager exception prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-expenses-manager-historical-1",
+    "family": "expenses",
+    "split": "train",
+    "tenant": "birch",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "what did the previous spending claims guidance say in 2024 for manager exception",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-incident-employee-current-0",
+    "family": "incident",
+    "split": "train",
+    "tenant": "birch",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "incident escalation staff current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-incident-employee-current-1",
+    "family": "incident",
+    "split": "train",
+    "tenant": "birch",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "where is the active outage response guidance for staff today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-incident-employee-historical-0",
+    "family": "incident",
+    "split": "train",
+    "tenant": "birch",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "incident escalation staff prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-incident-employee-historical-1",
+    "family": "incident",
+    "split": "train",
+    "tenant": "birch",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "what did the previous outage response guidance say in 2024 for staff",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-incident-manager-current-0",
+    "family": "incident",
+    "split": "train",
+    "tenant": "birch",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "incident escalation manager exception current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-incident-manager-current-1",
+    "family": "incident",
+    "split": "train",
+    "tenant": "birch",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "where is the active outage response guidance for manager exception today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-incident-manager-historical-0",
+    "family": "incident",
+    "split": "train",
+    "tenant": "birch",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "incident escalation manager exception prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-incident-manager-historical-1",
+    "family": "incident",
+    "split": "train",
+    "tenant": "birch",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "what did the previous outage response guidance say in 2024 for manager exception",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-access-employee-current-0",
+    "family": "access",
+    "split": "train",
+    "tenant": "birch",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "access request staff current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-access-employee-current-1",
+    "family": "access",
+    "split": "train",
+    "tenant": "birch",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "where is the active account permission guidance for staff today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-access-employee-historical-0",
+    "family": "access",
+    "split": "train",
+    "tenant": "birch",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "access request staff prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-access-employee-historical-1",
+    "family": "access",
+    "split": "train",
+    "tenant": "birch",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "what did the previous account permission guidance say in 2024 for staff",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-access-manager-current-0",
+    "family": "access",
+    "split": "train",
+    "tenant": "birch",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "access request manager exception current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-access-manager-current-1",
+    "family": "access",
+    "split": "train",
+    "tenant": "birch",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "where is the active account permission guidance for manager exception today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-access-manager-historical-0",
+    "family": "access",
+    "split": "train",
+    "tenant": "birch",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "access request manager exception prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-access-manager-historical-1",
+    "family": "access",
+    "split": "train",
+    "tenant": "birch",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "what did the previous account permission guidance say in 2024 for manager exception",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-leave-employee-current-0",
+    "family": "leave",
+    "split": "train",
+    "tenant": "birch",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "leave approval staff current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-leave-employee-current-1",
+    "family": "leave",
+    "split": "train",
+    "tenant": "birch",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "where is the active time off guidance for staff today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-leave-employee-historical-0",
+    "family": "leave",
+    "split": "train",
+    "tenant": "birch",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "leave approval staff prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-leave-employee-historical-1",
+    "family": "leave",
+    "split": "train",
+    "tenant": "birch",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "what did the previous time off guidance say in 2024 for staff",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-leave-manager-current-0",
+    "family": "leave",
+    "split": "train",
+    "tenant": "birch",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "leave approval manager exception current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-leave-manager-current-1",
+    "family": "leave",
+    "split": "train",
+    "tenant": "birch",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "where is the active time off guidance for manager exception today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-leave-manager-historical-0",
+    "family": "leave",
+    "split": "train",
+    "tenant": "birch",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "leave approval manager exception prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-leave-manager-historical-1",
+    "family": "leave",
+    "split": "train",
+    "tenant": "birch",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "what did the previous time off guidance say in 2024 for manager exception",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-procurement-employee-current-0",
+    "family": "procurement",
+    "split": "train",
+    "tenant": "birch",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "purchase approval staff current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-procurement-employee-current-1",
+    "family": "procurement",
+    "split": "train",
+    "tenant": "birch",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "where is the active supplier purchase guidance for staff today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-procurement-employee-historical-0",
+    "family": "procurement",
+    "split": "train",
+    "tenant": "birch",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "purchase approval staff prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-procurement-employee-historical-1",
+    "family": "procurement",
+    "split": "train",
+    "tenant": "birch",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "what did the previous supplier purchase guidance say in 2024 for staff",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-procurement-manager-current-0",
+    "family": "procurement",
+    "split": "train",
+    "tenant": "birch",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "purchase approval manager exception current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-procurement-manager-current-1",
+    "family": "procurement",
+    "split": "train",
+    "tenant": "birch",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "where is the active supplier purchase guidance for manager exception today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-procurement-manager-historical-0",
+    "family": "procurement",
+    "split": "train",
+    "tenant": "birch",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "purchase approval manager exception prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-procurement-manager-historical-1",
+    "family": "procurement",
+    "split": "train",
+    "tenant": "birch",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "what did the previous supplier purchase guidance say in 2024 for manager exception",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-handoff-employee-current-0",
+    "family": "handoff",
+    "split": "train",
+    "tenant": "birch",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "customer handoff staff current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-handoff-employee-current-1",
+    "family": "handoff",
+    "split": "train",
+    "tenant": "birch",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "where is the active account transition guidance for staff today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-handoff-employee-historical-0",
+    "family": "handoff",
+    "split": "train",
+    "tenant": "birch",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "customer handoff staff prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-handoff-employee-historical-1",
+    "family": "handoff",
+    "split": "train",
+    "tenant": "birch",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "what did the previous account transition guidance say in 2024 for staff",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-handoff-manager-current-0",
+    "family": "handoff",
+    "split": "train",
+    "tenant": "birch",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "customer handoff manager exception current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-handoff-manager-current-1",
+    "family": "handoff",
+    "split": "train",
+    "tenant": "birch",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "where is the active account transition guidance for manager exception today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-handoff-manager-historical-0",
+    "family": "handoff",
+    "split": "train",
+    "tenant": "birch",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "customer handoff manager exception prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-handoff-manager-historical-1",
+    "family": "handoff",
+    "split": "train",
+    "tenant": "birch",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "what did the previous account transition guidance say in 2024 for manager exception",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-backups-employee-current-0",
+    "family": "backups",
+    "split": "train",
+    "tenant": "birch",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "backup restoration staff current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-backups-employee-current-1",
+    "family": "backups",
+    "split": "train",
+    "tenant": "birch",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "where is the active data recovery guidance for staff today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-backups-employee-historical-0",
+    "family": "backups",
+    "split": "train",
+    "tenant": "birch",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "backup restoration staff prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-backups-employee-historical-1",
+    "family": "backups",
+    "split": "train",
+    "tenant": "birch",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "what did the previous data recovery guidance say in 2024 for staff",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-backups-manager-current-0",
+    "family": "backups",
+    "split": "train",
+    "tenant": "birch",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "backup restoration manager exception current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-backups-manager-current-1",
+    "family": "backups",
+    "split": "train",
+    "tenant": "birch",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "where is the active data recovery guidance for manager exception today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-backups-manager-historical-0",
+    "family": "backups",
+    "split": "train",
+    "tenant": "birch",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "backup restoration manager exception prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-backups-manager-historical-1",
+    "family": "backups",
+    "split": "train",
+    "tenant": "birch",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "what did the previous data recovery guidance say in 2024 for manager exception",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-vendor-employee-current-0",
+    "family": "vendor",
+    "split": "validation",
+    "tenant": "birch",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "vendor security staff current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-vendor-employee-current-1",
+    "family": "vendor",
+    "split": "validation",
+    "tenant": "birch",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "where is the active supplier assurance guidance for staff today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-vendor-employee-historical-0",
+    "family": "vendor",
+    "split": "validation",
+    "tenant": "birch",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "vendor security staff prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-vendor-employee-historical-1",
+    "family": "vendor",
+    "split": "validation",
+    "tenant": "birch",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "what did the previous supplier assurance guidance say in 2024 for staff",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-vendor-manager-current-0",
+    "family": "vendor",
+    "split": "validation",
+    "tenant": "birch",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "vendor security manager exception current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-vendor-manager-current-1",
+    "family": "vendor",
+    "split": "validation",
+    "tenant": "birch",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "where is the active supplier assurance guidance for manager exception today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-vendor-manager-historical-0",
+    "family": "vendor",
+    "split": "validation",
+    "tenant": "birch",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "vendor security manager exception prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-vendor-manager-historical-1",
+    "family": "vendor",
+    "split": "validation",
+    "tenant": "birch",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "what did the previous supplier assurance guidance say in 2024 for manager exception",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-onboarding-employee-current-0",
+    "family": "onboarding",
+    "split": "validation",
+    "tenant": "birch",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "employee onboarding staff current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-onboarding-employee-current-1",
+    "family": "onboarding",
+    "split": "validation",
+    "tenant": "birch",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "where is the active new starter guidance for staff today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-onboarding-employee-historical-0",
+    "family": "onboarding",
+    "split": "validation",
+    "tenant": "birch",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "employee onboarding staff prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-onboarding-employee-historical-1",
+    "family": "onboarding",
+    "split": "validation",
+    "tenant": "birch",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "what did the previous new starter guidance say in 2024 for staff",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-onboarding-manager-current-0",
+    "family": "onboarding",
+    "split": "validation",
+    "tenant": "birch",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "employee onboarding manager exception current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-onboarding-manager-current-1",
+    "family": "onboarding",
+    "split": "validation",
+    "tenant": "birch",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "where is the active new starter guidance for manager exception today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-onboarding-manager-historical-0",
+    "family": "onboarding",
+    "split": "validation",
+    "tenant": "birch",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "employee onboarding manager exception prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-onboarding-manager-historical-1",
+    "family": "onboarding",
+    "split": "validation",
+    "tenant": "birch",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "what did the previous new starter guidance say in 2024 for manager exception",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-dataroom-employee-current-0",
+    "family": "dataroom",
+    "split": "validation",
+    "tenant": "birch",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "data room access staff current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-dataroom-employee-current-1",
+    "family": "dataroom",
+    "split": "validation",
+    "tenant": "birch",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "where is the active deal documents guidance for staff today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-dataroom-employee-historical-0",
+    "family": "dataroom",
+    "split": "validation",
+    "tenant": "birch",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "data room access staff prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-dataroom-employee-historical-1",
+    "family": "dataroom",
+    "split": "validation",
+    "tenant": "birch",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "what did the previous deal documents guidance say in 2024 for staff",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-dataroom-manager-current-0",
+    "family": "dataroom",
+    "split": "validation",
+    "tenant": "birch",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "data room access manager exception current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-dataroom-manager-current-1",
+    "family": "dataroom",
+    "split": "validation",
+    "tenant": "birch",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "where is the active deal documents guidance for manager exception today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-dataroom-manager-historical-0",
+    "family": "dataroom",
+    "split": "validation",
+    "tenant": "birch",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "data room access manager exception prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-dataroom-manager-historical-1",
+    "family": "dataroom",
+    "split": "validation",
+    "tenant": "birch",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "what did the previous deal documents guidance say in 2024 for manager exception",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-retention-employee-current-0",
+    "family": "retention",
+    "split": "test",
+    "tenant": "birch",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "record retention staff current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-retention-employee-current-1",
+    "family": "retention",
+    "split": "test",
+    "tenant": "birch",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "where is the active document lifecycle guidance for staff today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-retention-employee-historical-0",
+    "family": "retention",
+    "split": "test",
+    "tenant": "birch",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "record retention staff prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-retention-employee-historical-1",
+    "family": "retention",
+    "split": "test",
+    "tenant": "birch",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "what did the previous document lifecycle guidance say in 2024 for staff",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-retention-manager-current-0",
+    "family": "retention",
+    "split": "test",
+    "tenant": "birch",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "record retention manager exception current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-retention-manager-current-1",
+    "family": "retention",
+    "split": "test",
+    "tenant": "birch",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "where is the active document lifecycle guidance for manager exception today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-retention-manager-historical-0",
+    "family": "retention",
+    "split": "test",
+    "tenant": "birch",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "record retention manager exception prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-retention-manager-historical-1",
+    "family": "retention",
+    "split": "test",
+    "tenant": "birch",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "what did the previous document lifecycle guidance say in 2024 for manager exception",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-travel-employee-current-0",
+    "family": "travel",
+    "split": "test",
+    "tenant": "birch",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "travel approval staff current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-travel-employee-current-1",
+    "family": "travel",
+    "split": "test",
+    "tenant": "birch",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "where is the active business trip guidance for staff today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-travel-employee-historical-0",
+    "family": "travel",
+    "split": "test",
+    "tenant": "birch",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "travel approval staff prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-travel-employee-historical-1",
+    "family": "travel",
+    "split": "test",
+    "tenant": "birch",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "what did the previous business trip guidance say in 2024 for staff",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-travel-manager-current-0",
+    "family": "travel",
+    "split": "test",
+    "tenant": "birch",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "travel approval manager exception current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-travel-manager-current-1",
+    "family": "travel",
+    "split": "test",
+    "tenant": "birch",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "where is the active business trip guidance for manager exception today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-travel-manager-historical-0",
+    "family": "travel",
+    "split": "test",
+    "tenant": "birch",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "travel approval manager exception prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-travel-manager-historical-1",
+    "family": "travel",
+    "split": "test",
+    "tenant": "birch",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "what did the previous business trip guidance say in 2024 for manager exception",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-release-employee-current-0",
+    "family": "release",
+    "split": "test",
+    "tenant": "birch",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "release handoff staff current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-release-employee-current-1",
+    "family": "release",
+    "split": "test",
+    "tenant": "birch",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "where is the active launch transition guidance for staff today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-release-employee-historical-0",
+    "family": "release",
+    "split": "test",
+    "tenant": "birch",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "release handoff staff prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-release-employee-historical-1",
+    "family": "release",
+    "split": "test",
+    "tenant": "birch",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "what did the previous launch transition guidance say in 2024 for staff",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-release-manager-current-0",
+    "family": "release",
+    "split": "test",
+    "tenant": "birch",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "release handoff manager exception current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-release-manager-current-1",
+    "family": "release",
+    "split": "test",
+    "tenant": "birch",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "where is the active launch transition guidance for manager exception today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-release-manager-historical-0",
+    "family": "release",
+    "split": "test",
+    "tenant": "birch",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "release handoff manager exception prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "birch-release-manager-historical-1",
+    "family": "release",
+    "split": "test",
+    "tenant": "birch",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "what did the previous launch transition guidance say in 2024 for manager exception",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-deploy-employee-current-0",
+    "family": "deploy",
+    "split": "train",
+    "tenant": "cedar",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "deployment rollback staff current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-deploy-employee-current-1",
+    "family": "deploy",
+    "split": "train",
+    "tenant": "cedar",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "where is the active release recovery guidance for staff today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-deploy-employee-historical-0",
+    "family": "deploy",
+    "split": "train",
+    "tenant": "cedar",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "deployment rollback staff prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-deploy-employee-historical-1",
+    "family": "deploy",
+    "split": "train",
+    "tenant": "cedar",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "what did the previous release recovery guidance say in 2024 for staff",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-deploy-manager-current-0",
+    "family": "deploy",
+    "split": "train",
+    "tenant": "cedar",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "deployment rollback manager exception current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-deploy-manager-current-1",
+    "family": "deploy",
+    "split": "train",
+    "tenant": "cedar",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "where is the active release recovery guidance for manager exception today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-deploy-manager-historical-0",
+    "family": "deploy",
+    "split": "train",
+    "tenant": "cedar",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "deployment rollback manager exception prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-deploy-manager-historical-1",
+    "family": "deploy",
+    "split": "train",
+    "tenant": "cedar",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "what did the previous release recovery guidance say in 2024 for manager exception",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-expenses-employee-current-0",
+    "family": "expenses",
+    "split": "train",
+    "tenant": "cedar",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "expense reimbursement staff current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-expenses-employee-current-1",
+    "family": "expenses",
+    "split": "train",
+    "tenant": "cedar",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "where is the active spending claims guidance for staff today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-expenses-employee-historical-0",
+    "family": "expenses",
+    "split": "train",
+    "tenant": "cedar",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "expense reimbursement staff prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-expenses-employee-historical-1",
+    "family": "expenses",
+    "split": "train",
+    "tenant": "cedar",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "what did the previous spending claims guidance say in 2024 for staff",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-expenses-manager-current-0",
+    "family": "expenses",
+    "split": "train",
+    "tenant": "cedar",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "expense reimbursement manager exception current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-expenses-manager-current-1",
+    "family": "expenses",
+    "split": "train",
+    "tenant": "cedar",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "where is the active spending claims guidance for manager exception today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-expenses-manager-historical-0",
+    "family": "expenses",
+    "split": "train",
+    "tenant": "cedar",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "expense reimbursement manager exception prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-expenses-manager-historical-1",
+    "family": "expenses",
+    "split": "train",
+    "tenant": "cedar",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "what did the previous spending claims guidance say in 2024 for manager exception",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-incident-employee-current-0",
+    "family": "incident",
+    "split": "train",
+    "tenant": "cedar",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "incident escalation staff current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-incident-employee-current-1",
+    "family": "incident",
+    "split": "train",
+    "tenant": "cedar",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "where is the active outage response guidance for staff today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-incident-employee-historical-0",
+    "family": "incident",
+    "split": "train",
+    "tenant": "cedar",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "incident escalation staff prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-incident-employee-historical-1",
+    "family": "incident",
+    "split": "train",
+    "tenant": "cedar",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "what did the previous outage response guidance say in 2024 for staff",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-incident-manager-current-0",
+    "family": "incident",
+    "split": "train",
+    "tenant": "cedar",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "incident escalation manager exception current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-incident-manager-current-1",
+    "family": "incident",
+    "split": "train",
+    "tenant": "cedar",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "where is the active outage response guidance for manager exception today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-incident-manager-historical-0",
+    "family": "incident",
+    "split": "train",
+    "tenant": "cedar",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "incident escalation manager exception prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-incident-manager-historical-1",
+    "family": "incident",
+    "split": "train",
+    "tenant": "cedar",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "what did the previous outage response guidance say in 2024 for manager exception",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-access-employee-current-0",
+    "family": "access",
+    "split": "train",
+    "tenant": "cedar",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "access request staff current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-access-employee-current-1",
+    "family": "access",
+    "split": "train",
+    "tenant": "cedar",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "where is the active account permission guidance for staff today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-access-employee-historical-0",
+    "family": "access",
+    "split": "train",
+    "tenant": "cedar",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "access request staff prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-access-employee-historical-1",
+    "family": "access",
+    "split": "train",
+    "tenant": "cedar",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "what did the previous account permission guidance say in 2024 for staff",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-access-manager-current-0",
+    "family": "access",
+    "split": "train",
+    "tenant": "cedar",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "access request manager exception current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-access-manager-current-1",
+    "family": "access",
+    "split": "train",
+    "tenant": "cedar",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "where is the active account permission guidance for manager exception today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-access-manager-historical-0",
+    "family": "access",
+    "split": "train",
+    "tenant": "cedar",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "access request manager exception prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-access-manager-historical-1",
+    "family": "access",
+    "split": "train",
+    "tenant": "cedar",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "what did the previous account permission guidance say in 2024 for manager exception",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-leave-employee-current-0",
+    "family": "leave",
+    "split": "train",
+    "tenant": "cedar",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "leave approval staff current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-leave-employee-current-1",
+    "family": "leave",
+    "split": "train",
+    "tenant": "cedar",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "where is the active time off guidance for staff today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-leave-employee-historical-0",
+    "family": "leave",
+    "split": "train",
+    "tenant": "cedar",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "leave approval staff prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-leave-employee-historical-1",
+    "family": "leave",
+    "split": "train",
+    "tenant": "cedar",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "what did the previous time off guidance say in 2024 for staff",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-leave-manager-current-0",
+    "family": "leave",
+    "split": "train",
+    "tenant": "cedar",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "leave approval manager exception current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-leave-manager-current-1",
+    "family": "leave",
+    "split": "train",
+    "tenant": "cedar",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "where is the active time off guidance for manager exception today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-leave-manager-historical-0",
+    "family": "leave",
+    "split": "train",
+    "tenant": "cedar",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "leave approval manager exception prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-leave-manager-historical-1",
+    "family": "leave",
+    "split": "train",
+    "tenant": "cedar",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "what did the previous time off guidance say in 2024 for manager exception",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-procurement-employee-current-0",
+    "family": "procurement",
+    "split": "train",
+    "tenant": "cedar",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "purchase approval staff current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-procurement-employee-current-1",
+    "family": "procurement",
+    "split": "train",
+    "tenant": "cedar",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "where is the active supplier purchase guidance for staff today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-procurement-employee-historical-0",
+    "family": "procurement",
+    "split": "train",
+    "tenant": "cedar",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "purchase approval staff prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-procurement-employee-historical-1",
+    "family": "procurement",
+    "split": "train",
+    "tenant": "cedar",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "what did the previous supplier purchase guidance say in 2024 for staff",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-procurement-manager-current-0",
+    "family": "procurement",
+    "split": "train",
+    "tenant": "cedar",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "purchase approval manager exception current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-procurement-manager-current-1",
+    "family": "procurement",
+    "split": "train",
+    "tenant": "cedar",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "where is the active supplier purchase guidance for manager exception today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-procurement-manager-historical-0",
+    "family": "procurement",
+    "split": "train",
+    "tenant": "cedar",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "purchase approval manager exception prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-procurement-manager-historical-1",
+    "family": "procurement",
+    "split": "train",
+    "tenant": "cedar",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "what did the previous supplier purchase guidance say in 2024 for manager exception",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-handoff-employee-current-0",
+    "family": "handoff",
+    "split": "train",
+    "tenant": "cedar",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "customer handoff staff current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-handoff-employee-current-1",
+    "family": "handoff",
+    "split": "train",
+    "tenant": "cedar",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "where is the active account transition guidance for staff today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-handoff-employee-historical-0",
+    "family": "handoff",
+    "split": "train",
+    "tenant": "cedar",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "customer handoff staff prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-handoff-employee-historical-1",
+    "family": "handoff",
+    "split": "train",
+    "tenant": "cedar",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "what did the previous account transition guidance say in 2024 for staff",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-handoff-manager-current-0",
+    "family": "handoff",
+    "split": "train",
+    "tenant": "cedar",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "customer handoff manager exception current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-handoff-manager-current-1",
+    "family": "handoff",
+    "split": "train",
+    "tenant": "cedar",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "where is the active account transition guidance for manager exception today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-handoff-manager-historical-0",
+    "family": "handoff",
+    "split": "train",
+    "tenant": "cedar",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "customer handoff manager exception prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-handoff-manager-historical-1",
+    "family": "handoff",
+    "split": "train",
+    "tenant": "cedar",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "what did the previous account transition guidance say in 2024 for manager exception",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-backups-employee-current-0",
+    "family": "backups",
+    "split": "train",
+    "tenant": "cedar",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "backup restoration staff current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-backups-employee-current-1",
+    "family": "backups",
+    "split": "train",
+    "tenant": "cedar",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "where is the active data recovery guidance for staff today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-backups-employee-historical-0",
+    "family": "backups",
+    "split": "train",
+    "tenant": "cedar",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "backup restoration staff prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-backups-employee-historical-1",
+    "family": "backups",
+    "split": "train",
+    "tenant": "cedar",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "what did the previous data recovery guidance say in 2024 for staff",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-backups-manager-current-0",
+    "family": "backups",
+    "split": "train",
+    "tenant": "cedar",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "backup restoration manager exception current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-backups-manager-current-1",
+    "family": "backups",
+    "split": "train",
+    "tenant": "cedar",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "where is the active data recovery guidance for manager exception today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-backups-manager-historical-0",
+    "family": "backups",
+    "split": "train",
+    "tenant": "cedar",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "backup restoration manager exception prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-backups-manager-historical-1",
+    "family": "backups",
+    "split": "train",
+    "tenant": "cedar",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "what did the previous data recovery guidance say in 2024 for manager exception",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-vendor-employee-current-0",
+    "family": "vendor",
+    "split": "validation",
+    "tenant": "cedar",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "vendor security staff current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-vendor-employee-current-1",
+    "family": "vendor",
+    "split": "validation",
+    "tenant": "cedar",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "where is the active supplier assurance guidance for staff today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-vendor-employee-historical-0",
+    "family": "vendor",
+    "split": "validation",
+    "tenant": "cedar",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "vendor security staff prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-vendor-employee-historical-1",
+    "family": "vendor",
+    "split": "validation",
+    "tenant": "cedar",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "what did the previous supplier assurance guidance say in 2024 for staff",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-vendor-manager-current-0",
+    "family": "vendor",
+    "split": "validation",
+    "tenant": "cedar",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "vendor security manager exception current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-vendor-manager-current-1",
+    "family": "vendor",
+    "split": "validation",
+    "tenant": "cedar",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "where is the active supplier assurance guidance for manager exception today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-vendor-manager-historical-0",
+    "family": "vendor",
+    "split": "validation",
+    "tenant": "cedar",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "vendor security manager exception prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-vendor-manager-historical-1",
+    "family": "vendor",
+    "split": "validation",
+    "tenant": "cedar",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "what did the previous supplier assurance guidance say in 2024 for manager exception",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-onboarding-employee-current-0",
+    "family": "onboarding",
+    "split": "validation",
+    "tenant": "cedar",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "employee onboarding staff current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-onboarding-employee-current-1",
+    "family": "onboarding",
+    "split": "validation",
+    "tenant": "cedar",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "where is the active new starter guidance for staff today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-onboarding-employee-historical-0",
+    "family": "onboarding",
+    "split": "validation",
+    "tenant": "cedar",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "employee onboarding staff prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-onboarding-employee-historical-1",
+    "family": "onboarding",
+    "split": "validation",
+    "tenant": "cedar",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "what did the previous new starter guidance say in 2024 for staff",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-onboarding-manager-current-0",
+    "family": "onboarding",
+    "split": "validation",
+    "tenant": "cedar",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "employee onboarding manager exception current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-onboarding-manager-current-1",
+    "family": "onboarding",
+    "split": "validation",
+    "tenant": "cedar",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "where is the active new starter guidance for manager exception today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-onboarding-manager-historical-0",
+    "family": "onboarding",
+    "split": "validation",
+    "tenant": "cedar",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "employee onboarding manager exception prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-onboarding-manager-historical-1",
+    "family": "onboarding",
+    "split": "validation",
+    "tenant": "cedar",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "what did the previous new starter guidance say in 2024 for manager exception",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-dataroom-employee-current-0",
+    "family": "dataroom",
+    "split": "validation",
+    "tenant": "cedar",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "data room access staff current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-dataroom-employee-current-1",
+    "family": "dataroom",
+    "split": "validation",
+    "tenant": "cedar",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "where is the active deal documents guidance for staff today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-dataroom-employee-historical-0",
+    "family": "dataroom",
+    "split": "validation",
+    "tenant": "cedar",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "data room access staff prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-dataroom-employee-historical-1",
+    "family": "dataroom",
+    "split": "validation",
+    "tenant": "cedar",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "what did the previous deal documents guidance say in 2024 for staff",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-dataroom-manager-current-0",
+    "family": "dataroom",
+    "split": "validation",
+    "tenant": "cedar",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "data room access manager exception current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-dataroom-manager-current-1",
+    "family": "dataroom",
+    "split": "validation",
+    "tenant": "cedar",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "where is the active deal documents guidance for manager exception today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-dataroom-manager-historical-0",
+    "family": "dataroom",
+    "split": "validation",
+    "tenant": "cedar",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "data room access manager exception prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-dataroom-manager-historical-1",
+    "family": "dataroom",
+    "split": "validation",
+    "tenant": "cedar",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "what did the previous deal documents guidance say in 2024 for manager exception",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-retention-employee-current-0",
+    "family": "retention",
+    "split": "test",
+    "tenant": "cedar",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "record retention staff current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-retention-employee-current-1",
+    "family": "retention",
+    "split": "test",
+    "tenant": "cedar",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "where is the active document lifecycle guidance for staff today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-retention-employee-historical-0",
+    "family": "retention",
+    "split": "test",
+    "tenant": "cedar",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "record retention staff prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-retention-employee-historical-1",
+    "family": "retention",
+    "split": "test",
+    "tenant": "cedar",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "what did the previous document lifecycle guidance say in 2024 for staff",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-retention-manager-current-0",
+    "family": "retention",
+    "split": "test",
+    "tenant": "cedar",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "record retention manager exception current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-retention-manager-current-1",
+    "family": "retention",
+    "split": "test",
+    "tenant": "cedar",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "where is the active document lifecycle guidance for manager exception today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-retention-manager-historical-0",
+    "family": "retention",
+    "split": "test",
+    "tenant": "cedar",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "record retention manager exception prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-retention-manager-historical-1",
+    "family": "retention",
+    "split": "test",
+    "tenant": "cedar",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "what did the previous document lifecycle guidance say in 2024 for manager exception",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-travel-employee-current-0",
+    "family": "travel",
+    "split": "test",
+    "tenant": "cedar",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "travel approval staff current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-travel-employee-current-1",
+    "family": "travel",
+    "split": "test",
+    "tenant": "cedar",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "where is the active business trip guidance for staff today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-travel-employee-historical-0",
+    "family": "travel",
+    "split": "test",
+    "tenant": "cedar",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "travel approval staff prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-travel-employee-historical-1",
+    "family": "travel",
+    "split": "test",
+    "tenant": "cedar",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "what did the previous business trip guidance say in 2024 for staff",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-travel-manager-current-0",
+    "family": "travel",
+    "split": "test",
+    "tenant": "cedar",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "travel approval manager exception current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-travel-manager-current-1",
+    "family": "travel",
+    "split": "test",
+    "tenant": "cedar",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "where is the active business trip guidance for manager exception today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-travel-manager-historical-0",
+    "family": "travel",
+    "split": "test",
+    "tenant": "cedar",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "travel approval manager exception prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-travel-manager-historical-1",
+    "family": "travel",
+    "split": "test",
+    "tenant": "cedar",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "what did the previous business trip guidance say in 2024 for manager exception",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-release-employee-current-0",
+    "family": "release",
+    "split": "test",
+    "tenant": "cedar",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "release handoff staff current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-release-employee-current-1",
+    "family": "release",
+    "split": "test",
+    "tenant": "cedar",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "where is the active launch transition guidance for staff today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-release-employee-historical-0",
+    "family": "release",
+    "split": "test",
+    "tenant": "cedar",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "release handoff staff prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-release-employee-historical-1",
+    "family": "release",
+    "split": "test",
+    "tenant": "cedar",
+    "principal": "employee",
+    "groups": [
+      "all"
+    ],
+    "text": "what did the previous launch transition guidance say in 2024 for staff",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-release-manager-current-0",
+    "family": "release",
+    "split": "test",
+    "tenant": "cedar",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "release handoff manager exception current approved procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-release-manager-current-1",
+    "family": "release",
+    "split": "test",
+    "tenant": "cedar",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "where is the active launch transition guidance for manager exception today",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-release-manager-historical-0",
+    "family": "release",
+    "split": "test",
+    "tenant": "cedar",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "release handoff manager exception prior 2024 archived procedure",
+    "as_of_day": 1000
+  },
+  {
+    "query_id": "cedar-release-manager-historical-1",
+    "family": "release",
+    "split": "test",
+    "tenant": "cedar",
+    "principal": "manager",
+    "groups": [
+      "all",
+      "leadership"
+    ],
+    "text": "what did the previous launch transition guidance say in 2024 for manager exception",
+    "as_of_day": 1000
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "query_id": "birch-retention-employee-current-0",
+    "unsafe_global_top_5": [
+      "aster-retention-draft",
+      "birch-retention-draft",
+      "cedar-retention-draft",
+      "aster-retention-current",
+      "birch-retention-current"
+    ],
+    "forbidden_hits": [
+      "aster-retention-draft",
+      "cedar-retention-draft",
+      "aster-retention-current"
+    ],
+    "safe_candidate_count": 22,
+    "safe_forbidden_hits": 0
+  },
+  {
+    "query_id": "birch-retention-employee-current-1",
+    "unsafe_global_top_5": [
+      "aster-retention-current",
+      "birch-retention-current",
+      "cedar-retention-current",
+      "aster-retention-discussion",
+      "birch-retention-discussion"
+    ],
+    "forbidden_hits": [
+      "aster-retention-current",
+      "cedar-retention-current",
+      "aster-retention-discussion"
+    ],
+    "safe_candidate_count": 22,
+    "safe_forbidden_hits": 0
+  },
+  {
+    "query_id": "birch-retention-employee-historical-0",
+    "unsafe_global_top_5": [
+      "aster-retention-archive",
+      "birch-retention-archive",
+      "cedar-retention-archive",
+      "aster-retention-tangent",
+      "birch-retention-tangent"
+    ],
+    "forbidden_hits": [
+      "aster-retention-archive",
+      "cedar-retention-archive",
+      "aster-retention-tangent"
+    ],
+    "safe_candidate_count": 22,
+    "safe_forbidden_hits": 0
+  },
+  {
+    "query_id": "birch-retention-employee-historical-1",
+    "unsafe_global_top_5": [
+      "aster-retention-current",
+      "birch-retention-current",
+      "cedar-retention-current",
+      "aster-retention-archive",
+      "birch-retention-archive"
+    ],
+    "forbidden_hits": [
+      "aster-retention-current",
+      "cedar-retention-current",
+      "aster-retention-archive"
+    ],
+    "safe_candidate_count": 22,
+    "safe_forbidden_hits": 0
+  }
+]

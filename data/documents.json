@@ -1,0 +1,4118 @@
+[
+  {
+    "tenant": "aster",
+    "family": "deploy",
+    "doc_id": "aster-deploy-current",
+    "title": "deployment rollback approved procedure",
+    "body": "release recovery. Route deployment rollback through the service owner. Record the decision and review within 3 days. Current approved guidance for staff, effective now.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 970,
+    "available_day": 970,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "deploy",
+    "doc_id": "aster-deploy-archive",
+    "title": "deployment rollback prior 2024 procedure",
+    "body": "deployment rollback. release recovery. Prior 2024 archived procedure: use the earlier owner and a 30 day review. deployment rollback deployment rollback deployment rollback deployment rollback",
+    "source": "policy",
+    "status": "archived",
+    "updated_day": 300,
+    "available_day": 300,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "deploy",
+    "doc_id": "aster-deploy-draft",
+    "title": "deployment rollback current proposed draft",
+    "body": "deployment rollback. release recovery. Current draft procedure proposes automatic approval. Not approved. deployment rollback deployment rollback deployment rollback",
+    "source": "draft",
+    "status": "draft",
+    "updated_day": 998,
+    "available_day": 998,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "deploy",
+    "doc_id": "aster-deploy-discussion",
+    "title": "Discussion of release recovery",
+    "body": "Staff discussion about deployment rollback. The current approved procedure is linked from the policy. This thread is not the authoritative decision.",
+    "source": "chat",
+    "status": "current",
+    "updated_day": 990,
+    "available_day": 990,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "deploy",
+    "doc_id": "aster-deploy-manager",
+    "title": "release recovery leadership exceptions",
+    "body": "Manager exception for deployment rollback: leadership must record an exception before overriding the current approved procedure. Route deployment rollback through the service owner. Record the decision and review within 3 days.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 975,
+    "available_day": 975,
+    "acl": [
+      "leadership"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "deploy",
+    "doc_id": "aster-deploy-future",
+    "title": "deployment rollback future approved procedure",
+    "body": "deployment rollback next procedure would allow a 90 day window. Not available at the query time.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 1020,
+    "available_day": 1020,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "deploy",
+    "doc_id": "aster-deploy-tangent",
+    "title": "deployment rollback vocabulary and definitions",
+    "body": "Definitions of deployment rollback and release recovery; background terms only, no current or prior procedure.",
+    "source": "wiki",
+    "status": "current",
+    "updated_day": 940,
+    "available_day": 940,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "expenses",
+    "doc_id": "aster-expenses-current",
+    "title": "expense reimbursement approved procedure",
+    "body": "spending claims. Route expense reimbursement through the service owner. Record the decision and review within 4 days. Current approved guidance for staff, effective now.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 970,
+    "available_day": 970,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "expenses",
+    "doc_id": "aster-expenses-archive",
+    "title": "expense reimbursement prior 2024 procedure",
+    "body": "expense reimbursement. spending claims. Prior 2024 archived procedure: use the earlier owner and a 30 day review. expense reimbursement expense reimbursement expense reimbursement expense reimbursement",
+    "source": "policy",
+    "status": "archived",
+    "updated_day": 300,
+    "available_day": 300,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "expenses",
+    "doc_id": "aster-expenses-draft",
+    "title": "expense reimbursement current proposed draft",
+    "body": "expense reimbursement. spending claims. Current draft procedure proposes automatic approval. Not approved. expense reimbursement expense reimbursement expense reimbursement",
+    "source": "draft",
+    "status": "draft",
+    "updated_day": 998,
+    "available_day": 998,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "expenses",
+    "doc_id": "aster-expenses-discussion",
+    "title": "Discussion of spending claims",
+    "body": "Staff discussion about expense reimbursement. The current approved procedure is linked from the policy. This thread is not the authoritative decision.",
+    "source": "chat",
+    "status": "current",
+    "updated_day": 990,
+    "available_day": 990,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "expenses",
+    "doc_id": "aster-expenses-manager",
+    "title": "spending claims leadership exceptions",
+    "body": "Manager exception for expense reimbursement: leadership must record an exception before overriding the current approved procedure. Route expense reimbursement through the service owner. Record the decision and review within 4 days.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 975,
+    "available_day": 975,
+    "acl": [
+      "leadership"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "expenses",
+    "doc_id": "aster-expenses-future",
+    "title": "expense reimbursement future approved procedure",
+    "body": "expense reimbursement next procedure would allow a 90 day window. Not available at the query time.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 1020,
+    "available_day": 1020,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "expenses",
+    "doc_id": "aster-expenses-tangent",
+    "title": "expense reimbursement vocabulary and definitions",
+    "body": "Definitions of expense reimbursement and spending claims; background terms only, no current or prior procedure.",
+    "source": "wiki",
+    "status": "current",
+    "updated_day": 940,
+    "available_day": 940,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "incident",
+    "doc_id": "aster-incident-current",
+    "title": "incident escalation approved procedure",
+    "body": "outage response. Route incident escalation through the service owner. Record the decision and review within 5 days. Current approved guidance for staff, effective now.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 970,
+    "available_day": 970,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "incident",
+    "doc_id": "aster-incident-archive",
+    "title": "incident escalation prior 2024 procedure",
+    "body": "incident escalation. outage response. Prior 2024 archived procedure: use the earlier owner and a 30 day review. incident escalation incident escalation incident escalation incident escalation",
+    "source": "policy",
+    "status": "archived",
+    "updated_day": 300,
+    "available_day": 300,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "incident",
+    "doc_id": "aster-incident-draft",
+    "title": "incident escalation current proposed draft",
+    "body": "incident escalation. outage response. Current draft procedure proposes automatic approval. Not approved. incident escalation incident escalation incident escalation",
+    "source": "draft",
+    "status": "draft",
+    "updated_day": 998,
+    "available_day": 998,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "incident",
+    "doc_id": "aster-incident-discussion",
+    "title": "Discussion of outage response",
+    "body": "Staff discussion about incident escalation. The current approved procedure is linked from the policy. This thread is not the authoritative decision.",
+    "source": "chat",
+    "status": "current",
+    "updated_day": 990,
+    "available_day": 990,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "incident",
+    "doc_id": "aster-incident-manager",
+    "title": "outage response leadership exceptions",
+    "body": "Manager exception for incident escalation: leadership must record an exception before overriding the current approved procedure. Route incident escalation through the service owner. Record the decision and review within 5 days.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 975,
+    "available_day": 975,
+    "acl": [
+      "leadership"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "incident",
+    "doc_id": "aster-incident-future",
+    "title": "incident escalation future approved procedure",
+    "body": "incident escalation next procedure would allow a 90 day window. Not available at the query time.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 1020,
+    "available_day": 1020,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "incident",
+    "doc_id": "aster-incident-tangent",
+    "title": "incident escalation vocabulary and definitions",
+    "body": "Definitions of incident escalation and outage response; background terms only, no current or prior procedure.",
+    "source": "wiki",
+    "status": "current",
+    "updated_day": 940,
+    "available_day": 940,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "access",
+    "doc_id": "aster-access-current",
+    "title": "access request approved procedure",
+    "body": "account permission. Route access request through the service owner. Record the decision and review within 6 days. Current approved guidance for staff, effective now.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 970,
+    "available_day": 970,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "access",
+    "doc_id": "aster-access-archive",
+    "title": "access request prior 2024 procedure",
+    "body": "access request. account permission. Prior 2024 archived procedure: use the earlier owner and a 30 day review. access request access request access request access request",
+    "source": "policy",
+    "status": "archived",
+    "updated_day": 300,
+    "available_day": 300,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "access",
+    "doc_id": "aster-access-draft",
+    "title": "access request current proposed draft",
+    "body": "access request. account permission. Current draft procedure proposes automatic approval. Not approved. access request access request access request",
+    "source": "draft",
+    "status": "draft",
+    "updated_day": 998,
+    "available_day": 998,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "access",
+    "doc_id": "aster-access-discussion",
+    "title": "Discussion of account permission",
+    "body": "Staff discussion about access request. The current approved procedure is linked from the policy. This thread is not the authoritative decision.",
+    "source": "chat",
+    "status": "current",
+    "updated_day": 990,
+    "available_day": 990,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "access",
+    "doc_id": "aster-access-manager",
+    "title": "account permission leadership exceptions",
+    "body": "Manager exception for access request: leadership must record an exception before overriding the current approved procedure. Route access request through the service owner. Record the decision and review within 6 days.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 975,
+    "available_day": 975,
+    "acl": [
+      "leadership"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "access",
+    "doc_id": "aster-access-future",
+    "title": "access request future approved procedure",
+    "body": "access request next procedure would allow a 90 day window. Not available at the query time.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 1020,
+    "available_day": 1020,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "access",
+    "doc_id": "aster-access-tangent",
+    "title": "access request vocabulary and definitions",
+    "body": "Definitions of access request and account permission; background terms only, no current or prior procedure.",
+    "source": "wiki",
+    "status": "current",
+    "updated_day": 940,
+    "available_day": 940,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "leave",
+    "doc_id": "aster-leave-current",
+    "title": "leave approval approved procedure",
+    "body": "time off. Route leave approval through the service owner. Record the decision and review within 7 days. Current approved guidance for staff, effective now.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 970,
+    "available_day": 970,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "leave",
+    "doc_id": "aster-leave-archive",
+    "title": "leave approval prior 2024 procedure",
+    "body": "leave approval. time off. Prior 2024 archived procedure: use the earlier owner and a 30 day review. leave approval leave approval leave approval leave approval",
+    "source": "policy",
+    "status": "archived",
+    "updated_day": 300,
+    "available_day": 300,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "leave",
+    "doc_id": "aster-leave-draft",
+    "title": "leave approval current proposed draft",
+    "body": "leave approval. time off. Current draft procedure proposes automatic approval. Not approved. leave approval leave approval leave approval",
+    "source": "draft",
+    "status": "draft",
+    "updated_day": 998,
+    "available_day": 998,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "leave",
+    "doc_id": "aster-leave-discussion",
+    "title": "Discussion of time off",
+    "body": "Staff discussion about leave approval. The current approved procedure is linked from the policy. This thread is not the authoritative decision.",
+    "source": "chat",
+    "status": "current",
+    "updated_day": 990,
+    "available_day": 990,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "leave",
+    "doc_id": "aster-leave-manager",
+    "title": "time off leadership exceptions",
+    "body": "Manager exception for leave approval: leadership must record an exception before overriding the current approved procedure. Route leave approval through the service owner. Record the decision and review within 7 days.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 975,
+    "available_day": 975,
+    "acl": [
+      "leadership"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "leave",
+    "doc_id": "aster-leave-future",
+    "title": "leave approval future approved procedure",
+    "body": "leave approval next procedure would allow a 90 day window. Not available at the query time.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 1020,
+    "available_day": 1020,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "leave",
+    "doc_id": "aster-leave-tangent",
+    "title": "leave approval vocabulary and definitions",
+    "body": "Definitions of leave approval and time off; background terms only, no current or prior procedure.",
+    "source": "wiki",
+    "status": "current",
+    "updated_day": 940,
+    "available_day": 940,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "procurement",
+    "doc_id": "aster-procurement-current",
+    "title": "purchase approval approved procedure",
+    "body": "supplier purchase. Route purchase approval through the service owner. Record the decision and review within 8 days. Current approved guidance for staff, effective now.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 970,
+    "available_day": 970,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "procurement",
+    "doc_id": "aster-procurement-archive",
+    "title": "purchase approval prior 2024 procedure",
+    "body": "purchase approval. supplier purchase. Prior 2024 archived procedure: use the earlier owner and a 30 day review. purchase approval purchase approval purchase approval purchase approval",
+    "source": "policy",
+    "status": "archived",
+    "updated_day": 300,
+    "available_day": 300,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "procurement",
+    "doc_id": "aster-procurement-draft",
+    "title": "purchase approval current proposed draft",
+    "body": "purchase approval. supplier purchase. Current draft procedure proposes automatic approval. Not approved. purchase approval purchase approval purchase approval",
+    "source": "draft",
+    "status": "draft",
+    "updated_day": 998,
+    "available_day": 998,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "procurement",
+    "doc_id": "aster-procurement-discussion",
+    "title": "Discussion of supplier purchase",
+    "body": "Staff discussion about purchase approval. The current approved procedure is linked from the policy. This thread is not the authoritative decision.",
+    "source": "chat",
+    "status": "current",
+    "updated_day": 990,
+    "available_day": 990,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "procurement",
+    "doc_id": "aster-procurement-manager",
+    "title": "supplier purchase leadership exceptions",
+    "body": "Manager exception for purchase approval: leadership must record an exception before overriding the current approved procedure. Route purchase approval through the service owner. Record the decision and review within 8 days.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 975,
+    "available_day": 975,
+    "acl": [
+      "leadership"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "procurement",
+    "doc_id": "aster-procurement-future",
+    "title": "purchase approval future approved procedure",
+    "body": "purchase approval next procedure would allow a 90 day window. Not available at the query time.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 1020,
+    "available_day": 1020,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "procurement",
+    "doc_id": "aster-procurement-tangent",
+    "title": "purchase approval vocabulary and definitions",
+    "body": "Definitions of purchase approval and supplier purchase; background terms only, no current or prior procedure.",
+    "source": "wiki",
+    "status": "current",
+    "updated_day": 940,
+    "available_day": 940,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "handoff",
+    "doc_id": "aster-handoff-current",
+    "title": "customer handoff approved procedure",
+    "body": "account transition. Route customer handoff through the service owner. Record the decision and review within 9 days. Current approved guidance for staff, effective now.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 970,
+    "available_day": 970,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "handoff",
+    "doc_id": "aster-handoff-archive",
+    "title": "customer handoff prior 2024 procedure",
+    "body": "customer handoff. account transition. Prior 2024 archived procedure: use the earlier owner and a 30 day review. customer handoff customer handoff customer handoff customer handoff",
+    "source": "policy",
+    "status": "archived",
+    "updated_day": 300,
+    "available_day": 300,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "handoff",
+    "doc_id": "aster-handoff-draft",
+    "title": "customer handoff current proposed draft",
+    "body": "customer handoff. account transition. Current draft procedure proposes automatic approval. Not approved. customer handoff customer handoff customer handoff",
+    "source": "draft",
+    "status": "draft",
+    "updated_day": 998,
+    "available_day": 998,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "handoff",
+    "doc_id": "aster-handoff-discussion",
+    "title": "Discussion of account transition",
+    "body": "Staff discussion about customer handoff. The current approved procedure is linked from the policy. This thread is not the authoritative decision.",
+    "source": "chat",
+    "status": "current",
+    "updated_day": 990,
+    "available_day": 990,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "handoff",
+    "doc_id": "aster-handoff-manager",
+    "title": "account transition leadership exceptions",
+    "body": "Manager exception for customer handoff: leadership must record an exception before overriding the current approved procedure. Route customer handoff through the service owner. Record the decision and review within 9 days.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 975,
+    "available_day": 975,
+    "acl": [
+      "leadership"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "handoff",
+    "doc_id": "aster-handoff-future",
+    "title": "customer handoff future approved procedure",
+    "body": "customer handoff next procedure would allow a 90 day window. Not available at the query time.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 1020,
+    "available_day": 1020,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "handoff",
+    "doc_id": "aster-handoff-tangent",
+    "title": "customer handoff vocabulary and definitions",
+    "body": "Definitions of customer handoff and account transition; background terms only, no current or prior procedure.",
+    "source": "wiki",
+    "status": "current",
+    "updated_day": 940,
+    "available_day": 940,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "backups",
+    "doc_id": "aster-backups-current",
+    "title": "backup restoration approved procedure",
+    "body": "data recovery. Route backup restoration through the service owner. Record the decision and review within 10 days. Current approved guidance for staff, effective now.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 970,
+    "available_day": 970,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "backups",
+    "doc_id": "aster-backups-archive",
+    "title": "backup restoration prior 2024 procedure",
+    "body": "backup restoration. data recovery. Prior 2024 archived procedure: use the earlier owner and a 30 day review. backup restoration backup restoration backup restoration backup restoration",
+    "source": "policy",
+    "status": "archived",
+    "updated_day": 300,
+    "available_day": 300,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "backups",
+    "doc_id": "aster-backups-draft",
+    "title": "backup restoration current proposed draft",
+    "body": "backup restoration. data recovery. Current draft procedure proposes automatic approval. Not approved. backup restoration backup restoration backup restoration",
+    "source": "draft",
+    "status": "draft",
+    "updated_day": 998,
+    "available_day": 998,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "backups",
+    "doc_id": "aster-backups-discussion",
+    "title": "Discussion of data recovery",
+    "body": "Staff discussion about backup restoration. The current approved procedure is linked from the policy. This thread is not the authoritative decision.",
+    "source": "chat",
+    "status": "current",
+    "updated_day": 990,
+    "available_day": 990,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "backups",
+    "doc_id": "aster-backups-manager",
+    "title": "data recovery leadership exceptions",
+    "body": "Manager exception for backup restoration: leadership must record an exception before overriding the current approved procedure. Route backup restoration through the service owner. Record the decision and review within 10 days.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 975,
+    "available_day": 975,
+    "acl": [
+      "leadership"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "backups",
+    "doc_id": "aster-backups-future",
+    "title": "backup restoration future approved procedure",
+    "body": "backup restoration next procedure would allow a 90 day window. Not available at the query time.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 1020,
+    "available_day": 1020,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "backups",
+    "doc_id": "aster-backups-tangent",
+    "title": "backup restoration vocabulary and definitions",
+    "body": "Definitions of backup restoration and data recovery; background terms only, no current or prior procedure.",
+    "source": "wiki",
+    "status": "current",
+    "updated_day": 940,
+    "available_day": 940,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "vendor",
+    "doc_id": "aster-vendor-current",
+    "title": "vendor security approved procedure",
+    "body": "supplier assurance. Route vendor security through the service owner. Record the decision and review within 11 days. Current approved guidance for staff, effective now.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 970,
+    "available_day": 970,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "vendor",
+    "doc_id": "aster-vendor-archive",
+    "title": "vendor security prior 2024 procedure",
+    "body": "vendor security. supplier assurance. Prior 2024 archived procedure: use the earlier owner and a 30 day review. vendor security vendor security vendor security vendor security",
+    "source": "policy",
+    "status": "archived",
+    "updated_day": 300,
+    "available_day": 300,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "vendor",
+    "doc_id": "aster-vendor-draft",
+    "title": "vendor security current proposed draft",
+    "body": "vendor security. supplier assurance. Current draft procedure proposes automatic approval. Not approved. vendor security vendor security vendor security",
+    "source": "draft",
+    "status": "draft",
+    "updated_day": 998,
+    "available_day": 998,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "vendor",
+    "doc_id": "aster-vendor-discussion",
+    "title": "Discussion of supplier assurance",
+    "body": "Staff discussion about vendor security. The current approved procedure is linked from the policy. This thread is not the authoritative decision.",
+    "source": "chat",
+    "status": "current",
+    "updated_day": 990,
+    "available_day": 990,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "vendor",
+    "doc_id": "aster-vendor-manager",
+    "title": "supplier assurance leadership exceptions",
+    "body": "Manager exception for vendor security: leadership must record an exception before overriding the current approved procedure. Route vendor security through the service owner. Record the decision and review within 11 days.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 975,
+    "available_day": 975,
+    "acl": [
+      "leadership"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "vendor",
+    "doc_id": "aster-vendor-future",
+    "title": "vendor security future approved procedure",
+    "body": "vendor security next procedure would allow a 90 day window. Not available at the query time.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 1020,
+    "available_day": 1020,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "vendor",
+    "doc_id": "aster-vendor-tangent",
+    "title": "vendor security vocabulary and definitions",
+    "body": "Definitions of vendor security and supplier assurance; background terms only, no current or prior procedure.",
+    "source": "wiki",
+    "status": "current",
+    "updated_day": 940,
+    "available_day": 940,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "onboarding",
+    "doc_id": "aster-onboarding-current",
+    "title": "employee onboarding approved procedure",
+    "body": "new starter. Route employee onboarding through the service owner. Record the decision and review within 12 days. Current approved guidance for staff, effective now.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 970,
+    "available_day": 970,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "onboarding",
+    "doc_id": "aster-onboarding-archive",
+    "title": "employee onboarding prior 2024 procedure",
+    "body": "employee onboarding. new starter. Prior 2024 archived procedure: use the earlier owner and a 30 day review. employee onboarding employee onboarding employee onboarding employee onboarding",
+    "source": "policy",
+    "status": "archived",
+    "updated_day": 300,
+    "available_day": 300,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "onboarding",
+    "doc_id": "aster-onboarding-draft",
+    "title": "employee onboarding current proposed draft",
+    "body": "employee onboarding. new starter. Current draft procedure proposes automatic approval. Not approved. employee onboarding employee onboarding employee onboarding",
+    "source": "draft",
+    "status": "draft",
+    "updated_day": 998,
+    "available_day": 998,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "onboarding",
+    "doc_id": "aster-onboarding-discussion",
+    "title": "Discussion of new starter",
+    "body": "Staff discussion about employee onboarding. The current approved procedure is linked from the policy. This thread is not the authoritative decision.",
+    "source": "chat",
+    "status": "current",
+    "updated_day": 990,
+    "available_day": 990,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "onboarding",
+    "doc_id": "aster-onboarding-manager",
+    "title": "new starter leadership exceptions",
+    "body": "Manager exception for employee onboarding: leadership must record an exception before overriding the current approved procedure. Route employee onboarding through the service owner. Record the decision and review within 12 days.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 975,
+    "available_day": 975,
+    "acl": [
+      "leadership"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "onboarding",
+    "doc_id": "aster-onboarding-future",
+    "title": "employee onboarding future approved procedure",
+    "body": "employee onboarding next procedure would allow a 90 day window. Not available at the query time.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 1020,
+    "available_day": 1020,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "onboarding",
+    "doc_id": "aster-onboarding-tangent",
+    "title": "employee onboarding vocabulary and definitions",
+    "body": "Definitions of employee onboarding and new starter; background terms only, no current or prior procedure.",
+    "source": "wiki",
+    "status": "current",
+    "updated_day": 940,
+    "available_day": 940,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "dataroom",
+    "doc_id": "aster-dataroom-current",
+    "title": "data room access approved procedure",
+    "body": "deal documents. Route data room access through the service owner. Record the decision and review within 13 days. Current approved guidance for staff, effective now.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 970,
+    "available_day": 970,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "dataroom",
+    "doc_id": "aster-dataroom-archive",
+    "title": "data room access prior 2024 procedure",
+    "body": "data room access. deal documents. Prior 2024 archived procedure: use the earlier owner and a 30 day review. data room access data room access data room access data room access",
+    "source": "policy",
+    "status": "archived",
+    "updated_day": 300,
+    "available_day": 300,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "dataroom",
+    "doc_id": "aster-dataroom-draft",
+    "title": "data room access current proposed draft",
+    "body": "data room access. deal documents. Current draft procedure proposes automatic approval. Not approved. data room access data room access data room access",
+    "source": "draft",
+    "status": "draft",
+    "updated_day": 998,
+    "available_day": 998,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "dataroom",
+    "doc_id": "aster-dataroom-discussion",
+    "title": "Discussion of deal documents",
+    "body": "Staff discussion about data room access. The current approved procedure is linked from the policy. This thread is not the authoritative decision.",
+    "source": "chat",
+    "status": "current",
+    "updated_day": 990,
+    "available_day": 990,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "dataroom",
+    "doc_id": "aster-dataroom-manager",
+    "title": "deal documents leadership exceptions",
+    "body": "Manager exception for data room access: leadership must record an exception before overriding the current approved procedure. Route data room access through the service owner. Record the decision and review within 13 days.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 975,
+    "available_day": 975,
+    "acl": [
+      "leadership"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "dataroom",
+    "doc_id": "aster-dataroom-future",
+    "title": "data room access future approved procedure",
+    "body": "data room access next procedure would allow a 90 day window. Not available at the query time.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 1020,
+    "available_day": 1020,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "dataroom",
+    "doc_id": "aster-dataroom-tangent",
+    "title": "data room access vocabulary and definitions",
+    "body": "Definitions of data room access and deal documents; background terms only, no current or prior procedure.",
+    "source": "wiki",
+    "status": "current",
+    "updated_day": 940,
+    "available_day": 940,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "retention",
+    "doc_id": "aster-retention-current",
+    "title": "record retention approved procedure",
+    "body": "document lifecycle. Route record retention through the service owner. Record the decision and review within 14 days. Current approved guidance for staff, effective now.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 970,
+    "available_day": 970,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "retention",
+    "doc_id": "aster-retention-archive",
+    "title": "record retention prior 2024 procedure",
+    "body": "record retention. document lifecycle. Prior 2024 archived procedure: use the earlier owner and a 30 day review. record retention record retention record retention record retention",
+    "source": "policy",
+    "status": "archived",
+    "updated_day": 300,
+    "available_day": 300,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "retention",
+    "doc_id": "aster-retention-draft",
+    "title": "record retention current proposed draft",
+    "body": "record retention. document lifecycle. Current draft procedure proposes automatic approval. Not approved. record retention record retention record retention",
+    "source": "draft",
+    "status": "draft",
+    "updated_day": 998,
+    "available_day": 998,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "retention",
+    "doc_id": "aster-retention-discussion",
+    "title": "Discussion of document lifecycle",
+    "body": "Staff discussion about record retention. The current approved procedure is linked from the policy. This thread is not the authoritative decision.",
+    "source": "chat",
+    "status": "current",
+    "updated_day": 990,
+    "available_day": 990,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "retention",
+    "doc_id": "aster-retention-manager",
+    "title": "document lifecycle leadership exceptions",
+    "body": "Manager exception for record retention: leadership must record an exception before overriding the current approved procedure. Route record retention through the service owner. Record the decision and review within 14 days.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 975,
+    "available_day": 975,
+    "acl": [
+      "leadership"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "retention",
+    "doc_id": "aster-retention-future",
+    "title": "record retention future approved procedure",
+    "body": "record retention next procedure would allow a 90 day window. Not available at the query time.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 1020,
+    "available_day": 1020,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "retention",
+    "doc_id": "aster-retention-tangent",
+    "title": "record retention vocabulary and definitions",
+    "body": "Definitions of record retention and document lifecycle; background terms only, no current or prior procedure.",
+    "source": "wiki",
+    "status": "current",
+    "updated_day": 940,
+    "available_day": 940,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "travel",
+    "doc_id": "aster-travel-current",
+    "title": "travel approval approved procedure",
+    "body": "business trip. Route travel approval through the service owner. Record the decision and review within 15 days. Current approved guidance for staff, effective now.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 970,
+    "available_day": 970,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "travel",
+    "doc_id": "aster-travel-archive",
+    "title": "travel approval prior 2024 procedure",
+    "body": "travel approval. business trip. Prior 2024 archived procedure: use the earlier owner and a 30 day review. travel approval travel approval travel approval travel approval",
+    "source": "policy",
+    "status": "archived",
+    "updated_day": 300,
+    "available_day": 300,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "travel",
+    "doc_id": "aster-travel-draft",
+    "title": "travel approval current proposed draft",
+    "body": "travel approval. business trip. Current draft procedure proposes automatic approval. Not approved. travel approval travel approval travel approval",
+    "source": "draft",
+    "status": "draft",
+    "updated_day": 998,
+    "available_day": 998,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "travel",
+    "doc_id": "aster-travel-discussion",
+    "title": "Discussion of business trip",
+    "body": "Staff discussion about travel approval. The current approved procedure is linked from the policy. This thread is not the authoritative decision.",
+    "source": "chat",
+    "status": "current",
+    "updated_day": 990,
+    "available_day": 990,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "travel",
+    "doc_id": "aster-travel-manager",
+    "title": "business trip leadership exceptions",
+    "body": "Manager exception for travel approval: leadership must record an exception before overriding the current approved procedure. Route travel approval through the service owner. Record the decision and review within 15 days.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 975,
+    "available_day": 975,
+    "acl": [
+      "leadership"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "travel",
+    "doc_id": "aster-travel-future",
+    "title": "travel approval future approved procedure",
+    "body": "travel approval next procedure would allow a 90 day window. Not available at the query time.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 1020,
+    "available_day": 1020,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "travel",
+    "doc_id": "aster-travel-tangent",
+    "title": "travel approval vocabulary and definitions",
+    "body": "Definitions of travel approval and business trip; background terms only, no current or prior procedure.",
+    "source": "wiki",
+    "status": "current",
+    "updated_day": 940,
+    "available_day": 940,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "release",
+    "doc_id": "aster-release-current",
+    "title": "release handoff approved procedure",
+    "body": "launch transition. Route release handoff through the service owner. Record the decision and review within 16 days. Current approved guidance for staff, effective now.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 970,
+    "available_day": 970,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "release",
+    "doc_id": "aster-release-archive",
+    "title": "release handoff prior 2024 procedure",
+    "body": "release handoff. launch transition. Prior 2024 archived procedure: use the earlier owner and a 30 day review. release handoff release handoff release handoff release handoff",
+    "source": "policy",
+    "status": "archived",
+    "updated_day": 300,
+    "available_day": 300,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "release",
+    "doc_id": "aster-release-draft",
+    "title": "release handoff current proposed draft",
+    "body": "release handoff. launch transition. Current draft procedure proposes automatic approval. Not approved. release handoff release handoff release handoff",
+    "source": "draft",
+    "status": "draft",
+    "updated_day": 998,
+    "available_day": 998,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "release",
+    "doc_id": "aster-release-discussion",
+    "title": "Discussion of launch transition",
+    "body": "Staff discussion about release handoff. The current approved procedure is linked from the policy. This thread is not the authoritative decision.",
+    "source": "chat",
+    "status": "current",
+    "updated_day": 990,
+    "available_day": 990,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "release",
+    "doc_id": "aster-release-manager",
+    "title": "launch transition leadership exceptions",
+    "body": "Manager exception for release handoff: leadership must record an exception before overriding the current approved procedure. Route release handoff through the service owner. Record the decision and review within 16 days.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 975,
+    "available_day": 975,
+    "acl": [
+      "leadership"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "release",
+    "doc_id": "aster-release-future",
+    "title": "release handoff future approved procedure",
+    "body": "release handoff next procedure would allow a 90 day window. Not available at the query time.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 1020,
+    "available_day": 1020,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "aster",
+    "family": "release",
+    "doc_id": "aster-release-tangent",
+    "title": "release handoff vocabulary and definitions",
+    "body": "Definitions of release handoff and launch transition; background terms only, no current or prior procedure.",
+    "source": "wiki",
+    "status": "current",
+    "updated_day": 940,
+    "available_day": 940,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "deploy",
+    "doc_id": "birch-deploy-current",
+    "title": "deployment rollback approved procedure",
+    "body": "release recovery. Route deployment rollback through the service owner. Record the decision and review within 3 days. Current approved guidance for staff, effective now.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 971,
+    "available_day": 970,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "deploy",
+    "doc_id": "birch-deploy-archive",
+    "title": "deployment rollback prior 2024 procedure",
+    "body": "deployment rollback. release recovery. Prior 2024 archived procedure: use the earlier owner and a 30 day review. deployment rollback deployment rollback deployment rollback deployment rollback",
+    "source": "policy",
+    "status": "archived",
+    "updated_day": 301,
+    "available_day": 300,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "deploy",
+    "doc_id": "birch-deploy-draft",
+    "title": "deployment rollback current proposed draft",
+    "body": "deployment rollback. release recovery. Current draft procedure proposes automatic approval. Not approved. deployment rollback deployment rollback deployment rollback",
+    "source": "draft",
+    "status": "draft",
+    "updated_day": 999,
+    "available_day": 998,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "deploy",
+    "doc_id": "birch-deploy-discussion",
+    "title": "Discussion of release recovery",
+    "body": "Staff discussion about deployment rollback. The current approved procedure is linked from the policy. This thread is not the authoritative decision.",
+    "source": "chat",
+    "status": "current",
+    "updated_day": 991,
+    "available_day": 990,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "deploy",
+    "doc_id": "birch-deploy-manager",
+    "title": "release recovery leadership exceptions",
+    "body": "Manager exception for deployment rollback: leadership must record an exception before overriding the current approved procedure. Route deployment rollback through the service owner. Record the decision and review within 3 days.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 976,
+    "available_day": 975,
+    "acl": [
+      "leadership"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "deploy",
+    "doc_id": "birch-deploy-future",
+    "title": "deployment rollback future approved procedure",
+    "body": "deployment rollback next procedure would allow a 90 day window. Not available at the query time.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 1021,
+    "available_day": 1020,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "deploy",
+    "doc_id": "birch-deploy-tangent",
+    "title": "deployment rollback vocabulary and definitions",
+    "body": "Definitions of deployment rollback and release recovery; background terms only, no current or prior procedure.",
+    "source": "wiki",
+    "status": "current",
+    "updated_day": 941,
+    "available_day": 940,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "expenses",
+    "doc_id": "birch-expenses-current",
+    "title": "expense reimbursement approved procedure",
+    "body": "spending claims. Route expense reimbursement through the service owner. Record the decision and review within 4 days. Current approved guidance for staff, effective now.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 971,
+    "available_day": 970,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "expenses",
+    "doc_id": "birch-expenses-archive",
+    "title": "expense reimbursement prior 2024 procedure",
+    "body": "expense reimbursement. spending claims. Prior 2024 archived procedure: use the earlier owner and a 30 day review. expense reimbursement expense reimbursement expense reimbursement expense reimbursement",
+    "source": "policy",
+    "status": "archived",
+    "updated_day": 301,
+    "available_day": 300,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "expenses",
+    "doc_id": "birch-expenses-draft",
+    "title": "expense reimbursement current proposed draft",
+    "body": "expense reimbursement. spending claims. Current draft procedure proposes automatic approval. Not approved. expense reimbursement expense reimbursement expense reimbursement",
+    "source": "draft",
+    "status": "draft",
+    "updated_day": 999,
+    "available_day": 998,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "expenses",
+    "doc_id": "birch-expenses-discussion",
+    "title": "Discussion of spending claims",
+    "body": "Staff discussion about expense reimbursement. The current approved procedure is linked from the policy. This thread is not the authoritative decision.",
+    "source": "chat",
+    "status": "current",
+    "updated_day": 991,
+    "available_day": 990,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "expenses",
+    "doc_id": "birch-expenses-manager",
+    "title": "spending claims leadership exceptions",
+    "body": "Manager exception for expense reimbursement: leadership must record an exception before overriding the current approved procedure. Route expense reimbursement through the service owner. Record the decision and review within 4 days.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 976,
+    "available_day": 975,
+    "acl": [
+      "leadership"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "expenses",
+    "doc_id": "birch-expenses-future",
+    "title": "expense reimbursement future approved procedure",
+    "body": "expense reimbursement next procedure would allow a 90 day window. Not available at the query time.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 1021,
+    "available_day": 1020,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "expenses",
+    "doc_id": "birch-expenses-tangent",
+    "title": "expense reimbursement vocabulary and definitions",
+    "body": "Definitions of expense reimbursement and spending claims; background terms only, no current or prior procedure.",
+    "source": "wiki",
+    "status": "current",
+    "updated_day": 941,
+    "available_day": 940,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "incident",
+    "doc_id": "birch-incident-current",
+    "title": "incident escalation approved procedure",
+    "body": "outage response. Route incident escalation through the service owner. Record the decision and review within 5 days. Current approved guidance for staff, effective now.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 971,
+    "available_day": 970,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "incident",
+    "doc_id": "birch-incident-archive",
+    "title": "incident escalation prior 2024 procedure",
+    "body": "incident escalation. outage response. Prior 2024 archived procedure: use the earlier owner and a 30 day review. incident escalation incident escalation incident escalation incident escalation",
+    "source": "policy",
+    "status": "archived",
+    "updated_day": 301,
+    "available_day": 300,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "incident",
+    "doc_id": "birch-incident-draft",
+    "title": "incident escalation current proposed draft",
+    "body": "incident escalation. outage response. Current draft procedure proposes automatic approval. Not approved. incident escalation incident escalation incident escalation",
+    "source": "draft",
+    "status": "draft",
+    "updated_day": 999,
+    "available_day": 998,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "incident",
+    "doc_id": "birch-incident-discussion",
+    "title": "Discussion of outage response",
+    "body": "Staff discussion about incident escalation. The current approved procedure is linked from the policy. This thread is not the authoritative decision.",
+    "source": "chat",
+    "status": "current",
+    "updated_day": 991,
+    "available_day": 990,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "incident",
+    "doc_id": "birch-incident-manager",
+    "title": "outage response leadership exceptions",
+    "body": "Manager exception for incident escalation: leadership must record an exception before overriding the current approved procedure. Route incident escalation through the service owner. Record the decision and review within 5 days.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 976,
+    "available_day": 975,
+    "acl": [
+      "leadership"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "incident",
+    "doc_id": "birch-incident-future",
+    "title": "incident escalation future approved procedure",
+    "body": "incident escalation next procedure would allow a 90 day window. Not available at the query time.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 1021,
+    "available_day": 1020,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "incident",
+    "doc_id": "birch-incident-tangent",
+    "title": "incident escalation vocabulary and definitions",
+    "body": "Definitions of incident escalation and outage response; background terms only, no current or prior procedure.",
+    "source": "wiki",
+    "status": "current",
+    "updated_day": 941,
+    "available_day": 940,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "access",
+    "doc_id": "birch-access-current",
+    "title": "access request approved procedure",
+    "body": "account permission. Route access request through the service owner. Record the decision and review within 6 days. Current approved guidance for staff, effective now.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 971,
+    "available_day": 970,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "access",
+    "doc_id": "birch-access-archive",
+    "title": "access request prior 2024 procedure",
+    "body": "access request. account permission. Prior 2024 archived procedure: use the earlier owner and a 30 day review. access request access request access request access request",
+    "source": "policy",
+    "status": "archived",
+    "updated_day": 301,
+    "available_day": 300,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "access",
+    "doc_id": "birch-access-draft",
+    "title": "access request current proposed draft",
+    "body": "access request. account permission. Current draft procedure proposes automatic approval. Not approved. access request access request access request",
+    "source": "draft",
+    "status": "draft",
+    "updated_day": 999,
+    "available_day": 998,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "access",
+    "doc_id": "birch-access-discussion",
+    "title": "Discussion of account permission",
+    "body": "Staff discussion about access request. The current approved procedure is linked from the policy. This thread is not the authoritative decision.",
+    "source": "chat",
+    "status": "current",
+    "updated_day": 991,
+    "available_day": 990,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "access",
+    "doc_id": "birch-access-manager",
+    "title": "account permission leadership exceptions",
+    "body": "Manager exception for access request: leadership must record an exception before overriding the current approved procedure. Route access request through the service owner. Record the decision and review within 6 days.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 976,
+    "available_day": 975,
+    "acl": [
+      "leadership"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "access",
+    "doc_id": "birch-access-future",
+    "title": "access request future approved procedure",
+    "body": "access request next procedure would allow a 90 day window. Not available at the query time.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 1021,
+    "available_day": 1020,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "access",
+    "doc_id": "birch-access-tangent",
+    "title": "access request vocabulary and definitions",
+    "body": "Definitions of access request and account permission; background terms only, no current or prior procedure.",
+    "source": "wiki",
+    "status": "current",
+    "updated_day": 941,
+    "available_day": 940,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "leave",
+    "doc_id": "birch-leave-current",
+    "title": "leave approval approved procedure",
+    "body": "time off. Route leave approval through the service owner. Record the decision and review within 7 days. Current approved guidance for staff, effective now.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 971,
+    "available_day": 970,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "leave",
+    "doc_id": "birch-leave-archive",
+    "title": "leave approval prior 2024 procedure",
+    "body": "leave approval. time off. Prior 2024 archived procedure: use the earlier owner and a 30 day review. leave approval leave approval leave approval leave approval",
+    "source": "policy",
+    "status": "archived",
+    "updated_day": 301,
+    "available_day": 300,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "leave",
+    "doc_id": "birch-leave-draft",
+    "title": "leave approval current proposed draft",
+    "body": "leave approval. time off. Current draft procedure proposes automatic approval. Not approved. leave approval leave approval leave approval",
+    "source": "draft",
+    "status": "draft",
+    "updated_day": 999,
+    "available_day": 998,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "leave",
+    "doc_id": "birch-leave-discussion",
+    "title": "Discussion of time off",
+    "body": "Staff discussion about leave approval. The current approved procedure is linked from the policy. This thread is not the authoritative decision.",
+    "source": "chat",
+    "status": "current",
+    "updated_day": 991,
+    "available_day": 990,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "leave",
+    "doc_id": "birch-leave-manager",
+    "title": "time off leadership exceptions",
+    "body": "Manager exception for leave approval: leadership must record an exception before overriding the current approved procedure. Route leave approval through the service owner. Record the decision and review within 7 days.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 976,
+    "available_day": 975,
+    "acl": [
+      "leadership"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "leave",
+    "doc_id": "birch-leave-future",
+    "title": "leave approval future approved procedure",
+    "body": "leave approval next procedure would allow a 90 day window. Not available at the query time.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 1021,
+    "available_day": 1020,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "leave",
+    "doc_id": "birch-leave-tangent",
+    "title": "leave approval vocabulary and definitions",
+    "body": "Definitions of leave approval and time off; background terms only, no current or prior procedure.",
+    "source": "wiki",
+    "status": "current",
+    "updated_day": 941,
+    "available_day": 940,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "procurement",
+    "doc_id": "birch-procurement-current",
+    "title": "purchase approval approved procedure",
+    "body": "supplier purchase. Route purchase approval through the service owner. Record the decision and review within 8 days. Current approved guidance for staff, effective now.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 971,
+    "available_day": 970,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "procurement",
+    "doc_id": "birch-procurement-archive",
+    "title": "purchase approval prior 2024 procedure",
+    "body": "purchase approval. supplier purchase. Prior 2024 archived procedure: use the earlier owner and a 30 day review. purchase approval purchase approval purchase approval purchase approval",
+    "source": "policy",
+    "status": "archived",
+    "updated_day": 301,
+    "available_day": 300,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "procurement",
+    "doc_id": "birch-procurement-draft",
+    "title": "purchase approval current proposed draft",
+    "body": "purchase approval. supplier purchase. Current draft procedure proposes automatic approval. Not approved. purchase approval purchase approval purchase approval",
+    "source": "draft",
+    "status": "draft",
+    "updated_day": 999,
+    "available_day": 998,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "procurement",
+    "doc_id": "birch-procurement-discussion",
+    "title": "Discussion of supplier purchase",
+    "body": "Staff discussion about purchase approval. The current approved procedure is linked from the policy. This thread is not the authoritative decision.",
+    "source": "chat",
+    "status": "current",
+    "updated_day": 991,
+    "available_day": 990,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "procurement",
+    "doc_id": "birch-procurement-manager",
+    "title": "supplier purchase leadership exceptions",
+    "body": "Manager exception for purchase approval: leadership must record an exception before overriding the current approved procedure. Route purchase approval through the service owner. Record the decision and review within 8 days.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 976,
+    "available_day": 975,
+    "acl": [
+      "leadership"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "procurement",
+    "doc_id": "birch-procurement-future",
+    "title": "purchase approval future approved procedure",
+    "body": "purchase approval next procedure would allow a 90 day window. Not available at the query time.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 1021,
+    "available_day": 1020,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "procurement",
+    "doc_id": "birch-procurement-tangent",
+    "title": "purchase approval vocabulary and definitions",
+    "body": "Definitions of purchase approval and supplier purchase; background terms only, no current or prior procedure.",
+    "source": "wiki",
+    "status": "current",
+    "updated_day": 941,
+    "available_day": 940,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "handoff",
+    "doc_id": "birch-handoff-current",
+    "title": "customer handoff approved procedure",
+    "body": "account transition. Route customer handoff through the service owner. Record the decision and review within 9 days. Current approved guidance for staff, effective now.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 971,
+    "available_day": 970,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "handoff",
+    "doc_id": "birch-handoff-archive",
+    "title": "customer handoff prior 2024 procedure",
+    "body": "customer handoff. account transition. Prior 2024 archived procedure: use the earlier owner and a 30 day review. customer handoff customer handoff customer handoff customer handoff",
+    "source": "policy",
+    "status": "archived",
+    "updated_day": 301,
+    "available_day": 300,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "handoff",
+    "doc_id": "birch-handoff-draft",
+    "title": "customer handoff current proposed draft",
+    "body": "customer handoff. account transition. Current draft procedure proposes automatic approval. Not approved. customer handoff customer handoff customer handoff",
+    "source": "draft",
+    "status": "draft",
+    "updated_day": 999,
+    "available_day": 998,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "handoff",
+    "doc_id": "birch-handoff-discussion",
+    "title": "Discussion of account transition",
+    "body": "Staff discussion about customer handoff. The current approved procedure is linked from the policy. This thread is not the authoritative decision.",
+    "source": "chat",
+    "status": "current",
+    "updated_day": 991,
+    "available_day": 990,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "handoff",
+    "doc_id": "birch-handoff-manager",
+    "title": "account transition leadership exceptions",
+    "body": "Manager exception for customer handoff: leadership must record an exception before overriding the current approved procedure. Route customer handoff through the service owner. Record the decision and review within 9 days.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 976,
+    "available_day": 975,
+    "acl": [
+      "leadership"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "handoff",
+    "doc_id": "birch-handoff-future",
+    "title": "customer handoff future approved procedure",
+    "body": "customer handoff next procedure would allow a 90 day window. Not available at the query time.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 1021,
+    "available_day": 1020,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "handoff",
+    "doc_id": "birch-handoff-tangent",
+    "title": "customer handoff vocabulary and definitions",
+    "body": "Definitions of customer handoff and account transition; background terms only, no current or prior procedure.",
+    "source": "wiki",
+    "status": "current",
+    "updated_day": 941,
+    "available_day": 940,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "backups",
+    "doc_id": "birch-backups-current",
+    "title": "backup restoration approved procedure",
+    "body": "data recovery. Route backup restoration through the service owner. Record the decision and review within 10 days. Current approved guidance for staff, effective now.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 971,
+    "available_day": 970,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "backups",
+    "doc_id": "birch-backups-archive",
+    "title": "backup restoration prior 2024 procedure",
+    "body": "backup restoration. data recovery. Prior 2024 archived procedure: use the earlier owner and a 30 day review. backup restoration backup restoration backup restoration backup restoration",
+    "source": "policy",
+    "status": "archived",
+    "updated_day": 301,
+    "available_day": 300,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "backups",
+    "doc_id": "birch-backups-draft",
+    "title": "backup restoration current proposed draft",
+    "body": "backup restoration. data recovery. Current draft procedure proposes automatic approval. Not approved. backup restoration backup restoration backup restoration",
+    "source": "draft",
+    "status": "draft",
+    "updated_day": 999,
+    "available_day": 998,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "backups",
+    "doc_id": "birch-backups-discussion",
+    "title": "Discussion of data recovery",
+    "body": "Staff discussion about backup restoration. The current approved procedure is linked from the policy. This thread is not the authoritative decision.",
+    "source": "chat",
+    "status": "current",
+    "updated_day": 991,
+    "available_day": 990,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "backups",
+    "doc_id": "birch-backups-manager",
+    "title": "data recovery leadership exceptions",
+    "body": "Manager exception for backup restoration: leadership must record an exception before overriding the current approved procedure. Route backup restoration through the service owner. Record the decision and review within 10 days.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 976,
+    "available_day": 975,
+    "acl": [
+      "leadership"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "backups",
+    "doc_id": "birch-backups-future",
+    "title": "backup restoration future approved procedure",
+    "body": "backup restoration next procedure would allow a 90 day window. Not available at the query time.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 1021,
+    "available_day": 1020,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "backups",
+    "doc_id": "birch-backups-tangent",
+    "title": "backup restoration vocabulary and definitions",
+    "body": "Definitions of backup restoration and data recovery; background terms only, no current or prior procedure.",
+    "source": "wiki",
+    "status": "current",
+    "updated_day": 941,
+    "available_day": 940,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "vendor",
+    "doc_id": "birch-vendor-current",
+    "title": "vendor security approved procedure",
+    "body": "supplier assurance. Route vendor security through the service owner. Record the decision and review within 11 days. Current approved guidance for staff, effective now.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 971,
+    "available_day": 970,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "vendor",
+    "doc_id": "birch-vendor-archive",
+    "title": "vendor security prior 2024 procedure",
+    "body": "vendor security. supplier assurance. Prior 2024 archived procedure: use the earlier owner and a 30 day review. vendor security vendor security vendor security vendor security",
+    "source": "policy",
+    "status": "archived",
+    "updated_day": 301,
+    "available_day": 300,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "vendor",
+    "doc_id": "birch-vendor-draft",
+    "title": "vendor security current proposed draft",
+    "body": "vendor security. supplier assurance. Current draft procedure proposes automatic approval. Not approved. vendor security vendor security vendor security",
+    "source": "draft",
+    "status": "draft",
+    "updated_day": 999,
+    "available_day": 998,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "vendor",
+    "doc_id": "birch-vendor-discussion",
+    "title": "Discussion of supplier assurance",
+    "body": "Staff discussion about vendor security. The current approved procedure is linked from the policy. This thread is not the authoritative decision.",
+    "source": "chat",
+    "status": "current",
+    "updated_day": 991,
+    "available_day": 990,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "vendor",
+    "doc_id": "birch-vendor-manager",
+    "title": "supplier assurance leadership exceptions",
+    "body": "Manager exception for vendor security: leadership must record an exception before overriding the current approved procedure. Route vendor security through the service owner. Record the decision and review within 11 days.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 976,
+    "available_day": 975,
+    "acl": [
+      "leadership"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "vendor",
+    "doc_id": "birch-vendor-future",
+    "title": "vendor security future approved procedure",
+    "body": "vendor security next procedure would allow a 90 day window. Not available at the query time.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 1021,
+    "available_day": 1020,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "vendor",
+    "doc_id": "birch-vendor-tangent",
+    "title": "vendor security vocabulary and definitions",
+    "body": "Definitions of vendor security and supplier assurance; background terms only, no current or prior procedure.",
+    "source": "wiki",
+    "status": "current",
+    "updated_day": 941,
+    "available_day": 940,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "onboarding",
+    "doc_id": "birch-onboarding-current",
+    "title": "employee onboarding approved procedure",
+    "body": "new starter. Route employee onboarding through the service owner. Record the decision and review within 12 days. Current approved guidance for staff, effective now.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 971,
+    "available_day": 970,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "onboarding",
+    "doc_id": "birch-onboarding-archive",
+    "title": "employee onboarding prior 2024 procedure",
+    "body": "employee onboarding. new starter. Prior 2024 archived procedure: use the earlier owner and a 30 day review. employee onboarding employee onboarding employee onboarding employee onboarding",
+    "source": "policy",
+    "status": "archived",
+    "updated_day": 301,
+    "available_day": 300,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "onboarding",
+    "doc_id": "birch-onboarding-draft",
+    "title": "employee onboarding current proposed draft",
+    "body": "employee onboarding. new starter. Current draft procedure proposes automatic approval. Not approved. employee onboarding employee onboarding employee onboarding",
+    "source": "draft",
+    "status": "draft",
+    "updated_day": 999,
+    "available_day": 998,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "onboarding",
+    "doc_id": "birch-onboarding-discussion",
+    "title": "Discussion of new starter",
+    "body": "Staff discussion about employee onboarding. The current approved procedure is linked from the policy. This thread is not the authoritative decision.",
+    "source": "chat",
+    "status": "current",
+    "updated_day": 991,
+    "available_day": 990,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "onboarding",
+    "doc_id": "birch-onboarding-manager",
+    "title": "new starter leadership exceptions",
+    "body": "Manager exception for employee onboarding: leadership must record an exception before overriding the current approved procedure. Route employee onboarding through the service owner. Record the decision and review within 12 days.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 976,
+    "available_day": 975,
+    "acl": [
+      "leadership"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "onboarding",
+    "doc_id": "birch-onboarding-future",
+    "title": "employee onboarding future approved procedure",
+    "body": "employee onboarding next procedure would allow a 90 day window. Not available at the query time.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 1021,
+    "available_day": 1020,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "onboarding",
+    "doc_id": "birch-onboarding-tangent",
+    "title": "employee onboarding vocabulary and definitions",
+    "body": "Definitions of employee onboarding and new starter; background terms only, no current or prior procedure.",
+    "source": "wiki",
+    "status": "current",
+    "updated_day": 941,
+    "available_day": 940,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "dataroom",
+    "doc_id": "birch-dataroom-current",
+    "title": "data room access approved procedure",
+    "body": "deal documents. Route data room access through the service owner. Record the decision and review within 13 days. Current approved guidance for staff, effective now.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 971,
+    "available_day": 970,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "dataroom",
+    "doc_id": "birch-dataroom-archive",
+    "title": "data room access prior 2024 procedure",
+    "body": "data room access. deal documents. Prior 2024 archived procedure: use the earlier owner and a 30 day review. data room access data room access data room access data room access",
+    "source": "policy",
+    "status": "archived",
+    "updated_day": 301,
+    "available_day": 300,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "dataroom",
+    "doc_id": "birch-dataroom-draft",
+    "title": "data room access current proposed draft",
+    "body": "data room access. deal documents. Current draft procedure proposes automatic approval. Not approved. data room access data room access data room access",
+    "source": "draft",
+    "status": "draft",
+    "updated_day": 999,
+    "available_day": 998,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "dataroom",
+    "doc_id": "birch-dataroom-discussion",
+    "title": "Discussion of deal documents",
+    "body": "Staff discussion about data room access. The current approved procedure is linked from the policy. This thread is not the authoritative decision.",
+    "source": "chat",
+    "status": "current",
+    "updated_day": 991,
+    "available_day": 990,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "dataroom",
+    "doc_id": "birch-dataroom-manager",
+    "title": "deal documents leadership exceptions",
+    "body": "Manager exception for data room access: leadership must record an exception before overriding the current approved procedure. Route data room access through the service owner. Record the decision and review within 13 days.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 976,
+    "available_day": 975,
+    "acl": [
+      "leadership"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "dataroom",
+    "doc_id": "birch-dataroom-future",
+    "title": "data room access future approved procedure",
+    "body": "data room access next procedure would allow a 90 day window. Not available at the query time.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 1021,
+    "available_day": 1020,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "dataroom",
+    "doc_id": "birch-dataroom-tangent",
+    "title": "data room access vocabulary and definitions",
+    "body": "Definitions of data room access and deal documents; background terms only, no current or prior procedure.",
+    "source": "wiki",
+    "status": "current",
+    "updated_day": 941,
+    "available_day": 940,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "retention",
+    "doc_id": "birch-retention-current",
+    "title": "record retention approved procedure",
+    "body": "document lifecycle. Route record retention through the service owner. Record the decision and review within 14 days. Current approved guidance for staff, effective now.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 971,
+    "available_day": 970,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "retention",
+    "doc_id": "birch-retention-archive",
+    "title": "record retention prior 2024 procedure",
+    "body": "record retention. document lifecycle. Prior 2024 archived procedure: use the earlier owner and a 30 day review. record retention record retention record retention record retention",
+    "source": "policy",
+    "status": "archived",
+    "updated_day": 301,
+    "available_day": 300,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "retention",
+    "doc_id": "birch-retention-draft",
+    "title": "record retention current proposed draft",
+    "body": "record retention. document lifecycle. Current draft procedure proposes automatic approval. Not approved. record retention record retention record retention",
+    "source": "draft",
+    "status": "draft",
+    "updated_day": 999,
+    "available_day": 998,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "retention",
+    "doc_id": "birch-retention-discussion",
+    "title": "Discussion of document lifecycle",
+    "body": "Staff discussion about record retention. The current approved procedure is linked from the policy. This thread is not the authoritative decision.",
+    "source": "chat",
+    "status": "current",
+    "updated_day": 991,
+    "available_day": 990,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "retention",
+    "doc_id": "birch-retention-manager",
+    "title": "document lifecycle leadership exceptions",
+    "body": "Manager exception for record retention: leadership must record an exception before overriding the current approved procedure. Route record retention through the service owner. Record the decision and review within 14 days.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 976,
+    "available_day": 975,
+    "acl": [
+      "leadership"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "retention",
+    "doc_id": "birch-retention-future",
+    "title": "record retention future approved procedure",
+    "body": "record retention next procedure would allow a 90 day window. Not available at the query time.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 1021,
+    "available_day": 1020,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "retention",
+    "doc_id": "birch-retention-tangent",
+    "title": "record retention vocabulary and definitions",
+    "body": "Definitions of record retention and document lifecycle; background terms only, no current or prior procedure.",
+    "source": "wiki",
+    "status": "current",
+    "updated_day": 941,
+    "available_day": 940,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "travel",
+    "doc_id": "birch-travel-current",
+    "title": "travel approval approved procedure",
+    "body": "business trip. Route travel approval through the service owner. Record the decision and review within 15 days. Current approved guidance for staff, effective now.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 971,
+    "available_day": 970,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "travel",
+    "doc_id": "birch-travel-archive",
+    "title": "travel approval prior 2024 procedure",
+    "body": "travel approval. business trip. Prior 2024 archived procedure: use the earlier owner and a 30 day review. travel approval travel approval travel approval travel approval",
+    "source": "policy",
+    "status": "archived",
+    "updated_day": 301,
+    "available_day": 300,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "travel",
+    "doc_id": "birch-travel-draft",
+    "title": "travel approval current proposed draft",
+    "body": "travel approval. business trip. Current draft procedure proposes automatic approval. Not approved. travel approval travel approval travel approval",
+    "source": "draft",
+    "status": "draft",
+    "updated_day": 999,
+    "available_day": 998,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "travel",
+    "doc_id": "birch-travel-discussion",
+    "title": "Discussion of business trip",
+    "body": "Staff discussion about travel approval. The current approved procedure is linked from the policy. This thread is not the authoritative decision.",
+    "source": "chat",
+    "status": "current",
+    "updated_day": 991,
+    "available_day": 990,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "travel",
+    "doc_id": "birch-travel-manager",
+    "title": "business trip leadership exceptions",
+    "body": "Manager exception for travel approval: leadership must record an exception before overriding the current approved procedure. Route travel approval through the service owner. Record the decision and review within 15 days.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 976,
+    "available_day": 975,
+    "acl": [
+      "leadership"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "travel",
+    "doc_id": "birch-travel-future",
+    "title": "travel approval future approved procedure",
+    "body": "travel approval next procedure would allow a 90 day window. Not available at the query time.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 1021,
+    "available_day": 1020,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "travel",
+    "doc_id": "birch-travel-tangent",
+    "title": "travel approval vocabulary and definitions",
+    "body": "Definitions of travel approval and business trip; background terms only, no current or prior procedure.",
+    "source": "wiki",
+    "status": "current",
+    "updated_day": 941,
+    "available_day": 940,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "release",
+    "doc_id": "birch-release-current",
+    "title": "release handoff approved procedure",
+    "body": "launch transition. Route release handoff through the service owner. Record the decision and review within 16 days. Current approved guidance for staff, effective now.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 971,
+    "available_day": 970,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "release",
+    "doc_id": "birch-release-archive",
+    "title": "release handoff prior 2024 procedure",
+    "body": "release handoff. launch transition. Prior 2024 archived procedure: use the earlier owner and a 30 day review. release handoff release handoff release handoff release handoff",
+    "source": "policy",
+    "status": "archived",
+    "updated_day": 301,
+    "available_day": 300,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "release",
+    "doc_id": "birch-release-draft",
+    "title": "release handoff current proposed draft",
+    "body": "release handoff. launch transition. Current draft procedure proposes automatic approval. Not approved. release handoff release handoff release handoff",
+    "source": "draft",
+    "status": "draft",
+    "updated_day": 999,
+    "available_day": 998,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "release",
+    "doc_id": "birch-release-discussion",
+    "title": "Discussion of launch transition",
+    "body": "Staff discussion about release handoff. The current approved procedure is linked from the policy. This thread is not the authoritative decision.",
+    "source": "chat",
+    "status": "current",
+    "updated_day": 991,
+    "available_day": 990,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "release",
+    "doc_id": "birch-release-manager",
+    "title": "launch transition leadership exceptions",
+    "body": "Manager exception for release handoff: leadership must record an exception before overriding the current approved procedure. Route release handoff through the service owner. Record the decision and review within 16 days.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 976,
+    "available_day": 975,
+    "acl": [
+      "leadership"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "release",
+    "doc_id": "birch-release-future",
+    "title": "release handoff future approved procedure",
+    "body": "release handoff next procedure would allow a 90 day window. Not available at the query time.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 1021,
+    "available_day": 1020,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "birch",
+    "family": "release",
+    "doc_id": "birch-release-tangent",
+    "title": "release handoff vocabulary and definitions",
+    "body": "Definitions of release handoff and launch transition; background terms only, no current or prior procedure.",
+    "source": "wiki",
+    "status": "current",
+    "updated_day": 941,
+    "available_day": 940,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "deploy",
+    "doc_id": "cedar-deploy-current",
+    "title": "deployment rollback approved procedure",
+    "body": "release recovery. Route deployment rollback through the service owner. Record the decision and review within 3 days. Current approved guidance for staff, effective now.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 972,
+    "available_day": 970,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "deploy",
+    "doc_id": "cedar-deploy-archive",
+    "title": "deployment rollback prior 2024 procedure",
+    "body": "deployment rollback. release recovery. Prior 2024 archived procedure: use the earlier owner and a 30 day review. deployment rollback deployment rollback deployment rollback deployment rollback",
+    "source": "policy",
+    "status": "archived",
+    "updated_day": 302,
+    "available_day": 300,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "deploy",
+    "doc_id": "cedar-deploy-draft",
+    "title": "deployment rollback current proposed draft",
+    "body": "deployment rollback. release recovery. Current draft procedure proposes automatic approval. Not approved. deployment rollback deployment rollback deployment rollback",
+    "source": "draft",
+    "status": "draft",
+    "updated_day": 1000,
+    "available_day": 998,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "deploy",
+    "doc_id": "cedar-deploy-discussion",
+    "title": "Discussion of release recovery",
+    "body": "Staff discussion about deployment rollback. The current approved procedure is linked from the policy. This thread is not the authoritative decision.",
+    "source": "chat",
+    "status": "current",
+    "updated_day": 992,
+    "available_day": 990,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "deploy",
+    "doc_id": "cedar-deploy-manager",
+    "title": "release recovery leadership exceptions",
+    "body": "Manager exception for deployment rollback: leadership must record an exception before overriding the current approved procedure. Route deployment rollback through the service owner. Record the decision and review within 3 days.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 977,
+    "available_day": 975,
+    "acl": [
+      "leadership"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "deploy",
+    "doc_id": "cedar-deploy-future",
+    "title": "deployment rollback future approved procedure",
+    "body": "deployment rollback next procedure would allow a 90 day window. Not available at the query time.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 1022,
+    "available_day": 1020,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "deploy",
+    "doc_id": "cedar-deploy-tangent",
+    "title": "deployment rollback vocabulary and definitions",
+    "body": "Definitions of deployment rollback and release recovery; background terms only, no current or prior procedure.",
+    "source": "wiki",
+    "status": "current",
+    "updated_day": 942,
+    "available_day": 940,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "expenses",
+    "doc_id": "cedar-expenses-current",
+    "title": "expense reimbursement approved procedure",
+    "body": "spending claims. Route expense reimbursement through the service owner. Record the decision and review within 4 days. Current approved guidance for staff, effective now.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 972,
+    "available_day": 970,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "expenses",
+    "doc_id": "cedar-expenses-archive",
+    "title": "expense reimbursement prior 2024 procedure",
+    "body": "expense reimbursement. spending claims. Prior 2024 archived procedure: use the earlier owner and a 30 day review. expense reimbursement expense reimbursement expense reimbursement expense reimbursement",
+    "source": "policy",
+    "status": "archived",
+    "updated_day": 302,
+    "available_day": 300,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "expenses",
+    "doc_id": "cedar-expenses-draft",
+    "title": "expense reimbursement current proposed draft",
+    "body": "expense reimbursement. spending claims. Current draft procedure proposes automatic approval. Not approved. expense reimbursement expense reimbursement expense reimbursement",
+    "source": "draft",
+    "status": "draft",
+    "updated_day": 1000,
+    "available_day": 998,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "expenses",
+    "doc_id": "cedar-expenses-discussion",
+    "title": "Discussion of spending claims",
+    "body": "Staff discussion about expense reimbursement. The current approved procedure is linked from the policy. This thread is not the authoritative decision.",
+    "source": "chat",
+    "status": "current",
+    "updated_day": 992,
+    "available_day": 990,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "expenses",
+    "doc_id": "cedar-expenses-manager",
+    "title": "spending claims leadership exceptions",
+    "body": "Manager exception for expense reimbursement: leadership must record an exception before overriding the current approved procedure. Route expense reimbursement through the service owner. Record the decision and review within 4 days.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 977,
+    "available_day": 975,
+    "acl": [
+      "leadership"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "expenses",
+    "doc_id": "cedar-expenses-future",
+    "title": "expense reimbursement future approved procedure",
+    "body": "expense reimbursement next procedure would allow a 90 day window. Not available at the query time.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 1022,
+    "available_day": 1020,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "expenses",
+    "doc_id": "cedar-expenses-tangent",
+    "title": "expense reimbursement vocabulary and definitions",
+    "body": "Definitions of expense reimbursement and spending claims; background terms only, no current or prior procedure.",
+    "source": "wiki",
+    "status": "current",
+    "updated_day": 942,
+    "available_day": 940,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "incident",
+    "doc_id": "cedar-incident-current",
+    "title": "incident escalation approved procedure",
+    "body": "outage response. Route incident escalation through the service owner. Record the decision and review within 5 days. Current approved guidance for staff, effective now.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 972,
+    "available_day": 970,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "incident",
+    "doc_id": "cedar-incident-archive",
+    "title": "incident escalation prior 2024 procedure",
+    "body": "incident escalation. outage response. Prior 2024 archived procedure: use the earlier owner and a 30 day review. incident escalation incident escalation incident escalation incident escalation",
+    "source": "policy",
+    "status": "archived",
+    "updated_day": 302,
+    "available_day": 300,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "incident",
+    "doc_id": "cedar-incident-draft",
+    "title": "incident escalation current proposed draft",
+    "body": "incident escalation. outage response. Current draft procedure proposes automatic approval. Not approved. incident escalation incident escalation incident escalation",
+    "source": "draft",
+    "status": "draft",
+    "updated_day": 1000,
+    "available_day": 998,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "incident",
+    "doc_id": "cedar-incident-discussion",
+    "title": "Discussion of outage response",
+    "body": "Staff discussion about incident escalation. The current approved procedure is linked from the policy. This thread is not the authoritative decision.",
+    "source": "chat",
+    "status": "current",
+    "updated_day": 992,
+    "available_day": 990,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "incident",
+    "doc_id": "cedar-incident-manager",
+    "title": "outage response leadership exceptions",
+    "body": "Manager exception for incident escalation: leadership must record an exception before overriding the current approved procedure. Route incident escalation through the service owner. Record the decision and review within 5 days.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 977,
+    "available_day": 975,
+    "acl": [
+      "leadership"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "incident",
+    "doc_id": "cedar-incident-future",
+    "title": "incident escalation future approved procedure",
+    "body": "incident escalation next procedure would allow a 90 day window. Not available at the query time.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 1022,
+    "available_day": 1020,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "incident",
+    "doc_id": "cedar-incident-tangent",
+    "title": "incident escalation vocabulary and definitions",
+    "body": "Definitions of incident escalation and outage response; background terms only, no current or prior procedure.",
+    "source": "wiki",
+    "status": "current",
+    "updated_day": 942,
+    "available_day": 940,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "access",
+    "doc_id": "cedar-access-current",
+    "title": "access request approved procedure",
+    "body": "account permission. Route access request through the service owner. Record the decision and review within 6 days. Current approved guidance for staff, effective now.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 972,
+    "available_day": 970,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "access",
+    "doc_id": "cedar-access-archive",
+    "title": "access request prior 2024 procedure",
+    "body": "access request. account permission. Prior 2024 archived procedure: use the earlier owner and a 30 day review. access request access request access request access request",
+    "source": "policy",
+    "status": "archived",
+    "updated_day": 302,
+    "available_day": 300,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "access",
+    "doc_id": "cedar-access-draft",
+    "title": "access request current proposed draft",
+    "body": "access request. account permission. Current draft procedure proposes automatic approval. Not approved. access request access request access request",
+    "source": "draft",
+    "status": "draft",
+    "updated_day": 1000,
+    "available_day": 998,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "access",
+    "doc_id": "cedar-access-discussion",
+    "title": "Discussion of account permission",
+    "body": "Staff discussion about access request. The current approved procedure is linked from the policy. This thread is not the authoritative decision.",
+    "source": "chat",
+    "status": "current",
+    "updated_day": 992,
+    "available_day": 990,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "access",
+    "doc_id": "cedar-access-manager",
+    "title": "account permission leadership exceptions",
+    "body": "Manager exception for access request: leadership must record an exception before overriding the current approved procedure. Route access request through the service owner. Record the decision and review within 6 days.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 977,
+    "available_day": 975,
+    "acl": [
+      "leadership"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "access",
+    "doc_id": "cedar-access-future",
+    "title": "access request future approved procedure",
+    "body": "access request next procedure would allow a 90 day window. Not available at the query time.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 1022,
+    "available_day": 1020,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "access",
+    "doc_id": "cedar-access-tangent",
+    "title": "access request vocabulary and definitions",
+    "body": "Definitions of access request and account permission; background terms only, no current or prior procedure.",
+    "source": "wiki",
+    "status": "current",
+    "updated_day": 942,
+    "available_day": 940,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "leave",
+    "doc_id": "cedar-leave-current",
+    "title": "leave approval approved procedure",
+    "body": "time off. Route leave approval through the service owner. Record the decision and review within 7 days. Current approved guidance for staff, effective now.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 972,
+    "available_day": 970,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "leave",
+    "doc_id": "cedar-leave-archive",
+    "title": "leave approval prior 2024 procedure",
+    "body": "leave approval. time off. Prior 2024 archived procedure: use the earlier owner and a 30 day review. leave approval leave approval leave approval leave approval",
+    "source": "policy",
+    "status": "archived",
+    "updated_day": 302,
+    "available_day": 300,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "leave",
+    "doc_id": "cedar-leave-draft",
+    "title": "leave approval current proposed draft",
+    "body": "leave approval. time off. Current draft procedure proposes automatic approval. Not approved. leave approval leave approval leave approval",
+    "source": "draft",
+    "status": "draft",
+    "updated_day": 1000,
+    "available_day": 998,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "leave",
+    "doc_id": "cedar-leave-discussion",
+    "title": "Discussion of time off",
+    "body": "Staff discussion about leave approval. The current approved procedure is linked from the policy. This thread is not the authoritative decision.",
+    "source": "chat",
+    "status": "current",
+    "updated_day": 992,
+    "available_day": 990,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "leave",
+    "doc_id": "cedar-leave-manager",
+    "title": "time off leadership exceptions",
+    "body": "Manager exception for leave approval: leadership must record an exception before overriding the current approved procedure. Route leave approval through the service owner. Record the decision and review within 7 days.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 977,
+    "available_day": 975,
+    "acl": [
+      "leadership"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "leave",
+    "doc_id": "cedar-leave-future",
+    "title": "leave approval future approved procedure",
+    "body": "leave approval next procedure would allow a 90 day window. Not available at the query time.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 1022,
+    "available_day": 1020,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "leave",
+    "doc_id": "cedar-leave-tangent",
+    "title": "leave approval vocabulary and definitions",
+    "body": "Definitions of leave approval and time off; background terms only, no current or prior procedure.",
+    "source": "wiki",
+    "status": "current",
+    "updated_day": 942,
+    "available_day": 940,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "procurement",
+    "doc_id": "cedar-procurement-current",
+    "title": "purchase approval approved procedure",
+    "body": "supplier purchase. Route purchase approval through the service owner. Record the decision and review within 8 days. Current approved guidance for staff, effective now.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 972,
+    "available_day": 970,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "procurement",
+    "doc_id": "cedar-procurement-archive",
+    "title": "purchase approval prior 2024 procedure",
+    "body": "purchase approval. supplier purchase. Prior 2024 archived procedure: use the earlier owner and a 30 day review. purchase approval purchase approval purchase approval purchase approval",
+    "source": "policy",
+    "status": "archived",
+    "updated_day": 302,
+    "available_day": 300,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "procurement",
+    "doc_id": "cedar-procurement-draft",
+    "title": "purchase approval current proposed draft",
+    "body": "purchase approval. supplier purchase. Current draft procedure proposes automatic approval. Not approved. purchase approval purchase approval purchase approval",
+    "source": "draft",
+    "status": "draft",
+    "updated_day": 1000,
+    "available_day": 998,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "procurement",
+    "doc_id": "cedar-procurement-discussion",
+    "title": "Discussion of supplier purchase",
+    "body": "Staff discussion about purchase approval. The current approved procedure is linked from the policy. This thread is not the authoritative decision.",
+    "source": "chat",
+    "status": "current",
+    "updated_day": 992,
+    "available_day": 990,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "procurement",
+    "doc_id": "cedar-procurement-manager",
+    "title": "supplier purchase leadership exceptions",
+    "body": "Manager exception for purchase approval: leadership must record an exception before overriding the current approved procedure. Route purchase approval through the service owner. Record the decision and review within 8 days.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 977,
+    "available_day": 975,
+    "acl": [
+      "leadership"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "procurement",
+    "doc_id": "cedar-procurement-future",
+    "title": "purchase approval future approved procedure",
+    "body": "purchase approval next procedure would allow a 90 day window. Not available at the query time.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 1022,
+    "available_day": 1020,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "procurement",
+    "doc_id": "cedar-procurement-tangent",
+    "title": "purchase approval vocabulary and definitions",
+    "body": "Definitions of purchase approval and supplier purchase; background terms only, no current or prior procedure.",
+    "source": "wiki",
+    "status": "current",
+    "updated_day": 942,
+    "available_day": 940,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "handoff",
+    "doc_id": "cedar-handoff-current",
+    "title": "customer handoff approved procedure",
+    "body": "account transition. Route customer handoff through the service owner. Record the decision and review within 9 days. Current approved guidance for staff, effective now.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 972,
+    "available_day": 970,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "handoff",
+    "doc_id": "cedar-handoff-archive",
+    "title": "customer handoff prior 2024 procedure",
+    "body": "customer handoff. account transition. Prior 2024 archived procedure: use the earlier owner and a 30 day review. customer handoff customer handoff customer handoff customer handoff",
+    "source": "policy",
+    "status": "archived",
+    "updated_day": 302,
+    "available_day": 300,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "handoff",
+    "doc_id": "cedar-handoff-draft",
+    "title": "customer handoff current proposed draft",
+    "body": "customer handoff. account transition. Current draft procedure proposes automatic approval. Not approved. customer handoff customer handoff customer handoff",
+    "source": "draft",
+    "status": "draft",
+    "updated_day": 1000,
+    "available_day": 998,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "handoff",
+    "doc_id": "cedar-handoff-discussion",
+    "title": "Discussion of account transition",
+    "body": "Staff discussion about customer handoff. The current approved procedure is linked from the policy. This thread is not the authoritative decision.",
+    "source": "chat",
+    "status": "current",
+    "updated_day": 992,
+    "available_day": 990,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "handoff",
+    "doc_id": "cedar-handoff-manager",
+    "title": "account transition leadership exceptions",
+    "body": "Manager exception for customer handoff: leadership must record an exception before overriding the current approved procedure. Route customer handoff through the service owner. Record the decision and review within 9 days.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 977,
+    "available_day": 975,
+    "acl": [
+      "leadership"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "handoff",
+    "doc_id": "cedar-handoff-future",
+    "title": "customer handoff future approved procedure",
+    "body": "customer handoff next procedure would allow a 90 day window. Not available at the query time.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 1022,
+    "available_day": 1020,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "handoff",
+    "doc_id": "cedar-handoff-tangent",
+    "title": "customer handoff vocabulary and definitions",
+    "body": "Definitions of customer handoff and account transition; background terms only, no current or prior procedure.",
+    "source": "wiki",
+    "status": "current",
+    "updated_day": 942,
+    "available_day": 940,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "backups",
+    "doc_id": "cedar-backups-current",
+    "title": "backup restoration approved procedure",
+    "body": "data recovery. Route backup restoration through the service owner. Record the decision and review within 10 days. Current approved guidance for staff, effective now.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 972,
+    "available_day": 970,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "backups",
+    "doc_id": "cedar-backups-archive",
+    "title": "backup restoration prior 2024 procedure",
+    "body": "backup restoration. data recovery. Prior 2024 archived procedure: use the earlier owner and a 30 day review. backup restoration backup restoration backup restoration backup restoration",
+    "source": "policy",
+    "status": "archived",
+    "updated_day": 302,
+    "available_day": 300,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "backups",
+    "doc_id": "cedar-backups-draft",
+    "title": "backup restoration current proposed draft",
+    "body": "backup restoration. data recovery. Current draft procedure proposes automatic approval. Not approved. backup restoration backup restoration backup restoration",
+    "source": "draft",
+    "status": "draft",
+    "updated_day": 1000,
+    "available_day": 998,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "backups",
+    "doc_id": "cedar-backups-discussion",
+    "title": "Discussion of data recovery",
+    "body": "Staff discussion about backup restoration. The current approved procedure is linked from the policy. This thread is not the authoritative decision.",
+    "source": "chat",
+    "status": "current",
+    "updated_day": 992,
+    "available_day": 990,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "backups",
+    "doc_id": "cedar-backups-manager",
+    "title": "data recovery leadership exceptions",
+    "body": "Manager exception for backup restoration: leadership must record an exception before overriding the current approved procedure. Route backup restoration through the service owner. Record the decision and review within 10 days.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 977,
+    "available_day": 975,
+    "acl": [
+      "leadership"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "backups",
+    "doc_id": "cedar-backups-future",
+    "title": "backup restoration future approved procedure",
+    "body": "backup restoration next procedure would allow a 90 day window. Not available at the query time.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 1022,
+    "available_day": 1020,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "backups",
+    "doc_id": "cedar-backups-tangent",
+    "title": "backup restoration vocabulary and definitions",
+    "body": "Definitions of backup restoration and data recovery; background terms only, no current or prior procedure.",
+    "source": "wiki",
+    "status": "current",
+    "updated_day": 942,
+    "available_day": 940,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "vendor",
+    "doc_id": "cedar-vendor-current",
+    "title": "vendor security approved procedure",
+    "body": "supplier assurance. Route vendor security through the service owner. Record the decision and review within 11 days. Current approved guidance for staff, effective now.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 972,
+    "available_day": 970,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "vendor",
+    "doc_id": "cedar-vendor-archive",
+    "title": "vendor security prior 2024 procedure",
+    "body": "vendor security. supplier assurance. Prior 2024 archived procedure: use the earlier owner and a 30 day review. vendor security vendor security vendor security vendor security",
+    "source": "policy",
+    "status": "archived",
+    "updated_day": 302,
+    "available_day": 300,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "vendor",
+    "doc_id": "cedar-vendor-draft",
+    "title": "vendor security current proposed draft",
+    "body": "vendor security. supplier assurance. Current draft procedure proposes automatic approval. Not approved. vendor security vendor security vendor security",
+    "source": "draft",
+    "status": "draft",
+    "updated_day": 1000,
+    "available_day": 998,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "vendor",
+    "doc_id": "cedar-vendor-discussion",
+    "title": "Discussion of supplier assurance",
+    "body": "Staff discussion about vendor security. The current approved procedure is linked from the policy. This thread is not the authoritative decision.",
+    "source": "chat",
+    "status": "current",
+    "updated_day": 992,
+    "available_day": 990,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "vendor",
+    "doc_id": "cedar-vendor-manager",
+    "title": "supplier assurance leadership exceptions",
+    "body": "Manager exception for vendor security: leadership must record an exception before overriding the current approved procedure. Route vendor security through the service owner. Record the decision and review within 11 days.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 977,
+    "available_day": 975,
+    "acl": [
+      "leadership"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "vendor",
+    "doc_id": "cedar-vendor-future",
+    "title": "vendor security future approved procedure",
+    "body": "vendor security next procedure would allow a 90 day window. Not available at the query time.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 1022,
+    "available_day": 1020,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "vendor",
+    "doc_id": "cedar-vendor-tangent",
+    "title": "vendor security vocabulary and definitions",
+    "body": "Definitions of vendor security and supplier assurance; background terms only, no current or prior procedure.",
+    "source": "wiki",
+    "status": "current",
+    "updated_day": 942,
+    "available_day": 940,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "onboarding",
+    "doc_id": "cedar-onboarding-current",
+    "title": "employee onboarding approved procedure",
+    "body": "new starter. Route employee onboarding through the service owner. Record the decision and review within 12 days. Current approved guidance for staff, effective now.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 972,
+    "available_day": 970,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "onboarding",
+    "doc_id": "cedar-onboarding-archive",
+    "title": "employee onboarding prior 2024 procedure",
+    "body": "employee onboarding. new starter. Prior 2024 archived procedure: use the earlier owner and a 30 day review. employee onboarding employee onboarding employee onboarding employee onboarding",
+    "source": "policy",
+    "status": "archived",
+    "updated_day": 302,
+    "available_day": 300,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "onboarding",
+    "doc_id": "cedar-onboarding-draft",
+    "title": "employee onboarding current proposed draft",
+    "body": "employee onboarding. new starter. Current draft procedure proposes automatic approval. Not approved. employee onboarding employee onboarding employee onboarding",
+    "source": "draft",
+    "status": "draft",
+    "updated_day": 1000,
+    "available_day": 998,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "onboarding",
+    "doc_id": "cedar-onboarding-discussion",
+    "title": "Discussion of new starter",
+    "body": "Staff discussion about employee onboarding. The current approved procedure is linked from the policy. This thread is not the authoritative decision.",
+    "source": "chat",
+    "status": "current",
+    "updated_day": 992,
+    "available_day": 990,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "onboarding",
+    "doc_id": "cedar-onboarding-manager",
+    "title": "new starter leadership exceptions",
+    "body": "Manager exception for employee onboarding: leadership must record an exception before overriding the current approved procedure. Route employee onboarding through the service owner. Record the decision and review within 12 days.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 977,
+    "available_day": 975,
+    "acl": [
+      "leadership"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "onboarding",
+    "doc_id": "cedar-onboarding-future",
+    "title": "employee onboarding future approved procedure",
+    "body": "employee onboarding next procedure would allow a 90 day window. Not available at the query time.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 1022,
+    "available_day": 1020,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "onboarding",
+    "doc_id": "cedar-onboarding-tangent",
+    "title": "employee onboarding vocabulary and definitions",
+    "body": "Definitions of employee onboarding and new starter; background terms only, no current or prior procedure.",
+    "source": "wiki",
+    "status": "current",
+    "updated_day": 942,
+    "available_day": 940,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "dataroom",
+    "doc_id": "cedar-dataroom-current",
+    "title": "data room access approved procedure",
+    "body": "deal documents. Route data room access through the service owner. Record the decision and review within 13 days. Current approved guidance for staff, effective now.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 972,
+    "available_day": 970,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "dataroom",
+    "doc_id": "cedar-dataroom-archive",
+    "title": "data room access prior 2024 procedure",
+    "body": "data room access. deal documents. Prior 2024 archived procedure: use the earlier owner and a 30 day review. data room access data room access data room access data room access",
+    "source": "policy",
+    "status": "archived",
+    "updated_day": 302,
+    "available_day": 300,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "dataroom",
+    "doc_id": "cedar-dataroom-draft",
+    "title": "data room access current proposed draft",
+    "body": "data room access. deal documents. Current draft procedure proposes automatic approval. Not approved. data room access data room access data room access",
+    "source": "draft",
+    "status": "draft",
+    "updated_day": 1000,
+    "available_day": 998,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "dataroom",
+    "doc_id": "cedar-dataroom-discussion",
+    "title": "Discussion of deal documents",
+    "body": "Staff discussion about data room access. The current approved procedure is linked from the policy. This thread is not the authoritative decision.",
+    "source": "chat",
+    "status": "current",
+    "updated_day": 992,
+    "available_day": 990,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "dataroom",
+    "doc_id": "cedar-dataroom-manager",
+    "title": "deal documents leadership exceptions",
+    "body": "Manager exception for data room access: leadership must record an exception before overriding the current approved procedure. Route data room access through the service owner. Record the decision and review within 13 days.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 977,
+    "available_day": 975,
+    "acl": [
+      "leadership"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "dataroom",
+    "doc_id": "cedar-dataroom-future",
+    "title": "data room access future approved procedure",
+    "body": "data room access next procedure would allow a 90 day window. Not available at the query time.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 1022,
+    "available_day": 1020,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "dataroom",
+    "doc_id": "cedar-dataroom-tangent",
+    "title": "data room access vocabulary and definitions",
+    "body": "Definitions of data room access and deal documents; background terms only, no current or prior procedure.",
+    "source": "wiki",
+    "status": "current",
+    "updated_day": 942,
+    "available_day": 940,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "retention",
+    "doc_id": "cedar-retention-current",
+    "title": "record retention approved procedure",
+    "body": "document lifecycle. Route record retention through the service owner. Record the decision and review within 14 days. Current approved guidance for staff, effective now.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 972,
+    "available_day": 970,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "retention",
+    "doc_id": "cedar-retention-archive",
+    "title": "record retention prior 2024 procedure",
+    "body": "record retention. document lifecycle. Prior 2024 archived procedure: use the earlier owner and a 30 day review. record retention record retention record retention record retention",
+    "source": "policy",
+    "status": "archived",
+    "updated_day": 302,
+    "available_day": 300,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "retention",
+    "doc_id": "cedar-retention-draft",
+    "title": "record retention current proposed draft",
+    "body": "record retention. document lifecycle. Current draft procedure proposes automatic approval. Not approved. record retention record retention record retention",
+    "source": "draft",
+    "status": "draft",
+    "updated_day": 1000,
+    "available_day": 998,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "retention",
+    "doc_id": "cedar-retention-discussion",
+    "title": "Discussion of document lifecycle",
+    "body": "Staff discussion about record retention. The current approved procedure is linked from the policy. This thread is not the authoritative decision.",
+    "source": "chat",
+    "status": "current",
+    "updated_day": 992,
+    "available_day": 990,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "retention",
+    "doc_id": "cedar-retention-manager",
+    "title": "document lifecycle leadership exceptions",
+    "body": "Manager exception for record retention: leadership must record an exception before overriding the current approved procedure. Route record retention through the service owner. Record the decision and review within 14 days.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 977,
+    "available_day": 975,
+    "acl": [
+      "leadership"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "retention",
+    "doc_id": "cedar-retention-future",
+    "title": "record retention future approved procedure",
+    "body": "record retention next procedure would allow a 90 day window. Not available at the query time.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 1022,
+    "available_day": 1020,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "retention",
+    "doc_id": "cedar-retention-tangent",
+    "title": "record retention vocabulary and definitions",
+    "body": "Definitions of record retention and document lifecycle; background terms only, no current or prior procedure.",
+    "source": "wiki",
+    "status": "current",
+    "updated_day": 942,
+    "available_day": 940,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "travel",
+    "doc_id": "cedar-travel-current",
+    "title": "travel approval approved procedure",
+    "body": "business trip. Route travel approval through the service owner. Record the decision and review within 15 days. Current approved guidance for staff, effective now.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 972,
+    "available_day": 970,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "travel",
+    "doc_id": "cedar-travel-archive",
+    "title": "travel approval prior 2024 procedure",
+    "body": "travel approval. business trip. Prior 2024 archived procedure: use the earlier owner and a 30 day review. travel approval travel approval travel approval travel approval",
+    "source": "policy",
+    "status": "archived",
+    "updated_day": 302,
+    "available_day": 300,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "travel",
+    "doc_id": "cedar-travel-draft",
+    "title": "travel approval current proposed draft",
+    "body": "travel approval. business trip. Current draft procedure proposes automatic approval. Not approved. travel approval travel approval travel approval",
+    "source": "draft",
+    "status": "draft",
+    "updated_day": 1000,
+    "available_day": 998,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "travel",
+    "doc_id": "cedar-travel-discussion",
+    "title": "Discussion of business trip",
+    "body": "Staff discussion about travel approval. The current approved procedure is linked from the policy. This thread is not the authoritative decision.",
+    "source": "chat",
+    "status": "current",
+    "updated_day": 992,
+    "available_day": 990,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "travel",
+    "doc_id": "cedar-travel-manager",
+    "title": "business trip leadership exceptions",
+    "body": "Manager exception for travel approval: leadership must record an exception before overriding the current approved procedure. Route travel approval through the service owner. Record the decision and review within 15 days.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 977,
+    "available_day": 975,
+    "acl": [
+      "leadership"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "travel",
+    "doc_id": "cedar-travel-future",
+    "title": "travel approval future approved procedure",
+    "body": "travel approval next procedure would allow a 90 day window. Not available at the query time.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 1022,
+    "available_day": 1020,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "travel",
+    "doc_id": "cedar-travel-tangent",
+    "title": "travel approval vocabulary and definitions",
+    "body": "Definitions of travel approval and business trip; background terms only, no current or prior procedure.",
+    "source": "wiki",
+    "status": "current",
+    "updated_day": 942,
+    "available_day": 940,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "release",
+    "doc_id": "cedar-release-current",
+    "title": "release handoff approved procedure",
+    "body": "launch transition. Route release handoff through the service owner. Record the decision and review within 16 days. Current approved guidance for staff, effective now.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 972,
+    "available_day": 970,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "release",
+    "doc_id": "cedar-release-archive",
+    "title": "release handoff prior 2024 procedure",
+    "body": "release handoff. launch transition. Prior 2024 archived procedure: use the earlier owner and a 30 day review. release handoff release handoff release handoff release handoff",
+    "source": "policy",
+    "status": "archived",
+    "updated_day": 302,
+    "available_day": 300,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "release",
+    "doc_id": "cedar-release-draft",
+    "title": "release handoff current proposed draft",
+    "body": "release handoff. launch transition. Current draft procedure proposes automatic approval. Not approved. release handoff release handoff release handoff",
+    "source": "draft",
+    "status": "draft",
+    "updated_day": 1000,
+    "available_day": 998,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "release",
+    "doc_id": "cedar-release-discussion",
+    "title": "Discussion of launch transition",
+    "body": "Staff discussion about release handoff. The current approved procedure is linked from the policy. This thread is not the authoritative decision.",
+    "source": "chat",
+    "status": "current",
+    "updated_day": 992,
+    "available_day": 990,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "release",
+    "doc_id": "cedar-release-manager",
+    "title": "launch transition leadership exceptions",
+    "body": "Manager exception for release handoff: leadership must record an exception before overriding the current approved procedure. Route release handoff through the service owner. Record the decision and review within 16 days.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 977,
+    "available_day": 975,
+    "acl": [
+      "leadership"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "release",
+    "doc_id": "cedar-release-future",
+    "title": "release handoff future approved procedure",
+    "body": "release handoff next procedure would allow a 90 day window. Not available at the query time.",
+    "source": "policy",
+    "status": "current",
+    "updated_day": 1022,
+    "available_day": 1020,
+    "acl": [
+      "all"
+    ]
+  },
+  {
+    "tenant": "cedar",
+    "family": "release",
+    "doc_id": "cedar-release-tangent",
+    "title": "release handoff vocabulary and definitions",
+    "body": "Definitions of release handoff and launch transition; background terms only, no current or prior procedure.",
+    "source": "wiki",
+    "status": "current",
+    "updated_day": 942,
+    "available_day": 940,
+    "acl": [
+      "all"
+    ]
+  }
+]
