@@ -243,7 +243,7 @@
     "src/tree_search/__init__.py": "45ad3b773959d1dba77df27209b4e1b41d7e0ebe912cea0478c27c92dd9f9861",
     "src/tree_search/experiment.py": "54e5a5b709052cd3285035cff7c26ce9aee051add3031209f50b2f34dbb989d4",
     "src/tree_search/fixture.py": "421f14634031c459e3274c2be8c88ec10945ad852144df6245606e5ed163bcdb",
-    "src/tree_search/report.py": "f4070420069a2735f151982b0059e9abbe02e4f4c745e11081d678043b002c01",
+    "src/tree_search/report.py": "998192cf1e4857cac27f8cc8a38a5d88446e016b2cae5ce369f29c2817c31e4c",
     "src/tree_search/retrieval.py": "7c7ce64122f05112be1132081432c5d278c6d0eda37b8d2dbfd54046169ee4e4",
     "run.py": "dd9fe010ea3a3482296833e788fc4b267c63b317abcc9e5fb7421b36a1a19dcb",
     "requirements.txt": "be9e93101990963782569de1f184edec9d7960facd763c610d66d9c1f11aba5b"
@@ -256,5 +256,5 @@
     "platform": "Windows-10-10.0.19045-SP0",
     "threads": 2
   },
-  "runtime_seconds": 4.4908950999961235
+  "runtime_seconds": 11.54176870000083
 }
